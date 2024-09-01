@@ -22,21 +22,16 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ## Project 2: SF Bike Share Insights (2017-2019 Data)
 
-**Summary**: Brief summary of the project.
+**Summary**: This project analyzes bike share data from San Francisco, focusing on identifying key user trends and uncovering opportunities to enhance customer lifetime value (CLV) through targeted conversions and retention strategies. The analysis utilizes Tableau for visualization to provide actionable insights into user behavior, customer segments, and promotional strategies.
 
-**Key Insights**: Key findings and insights from the project.
+**Key Insights**:
+- Developed an interactive Tableau dashboard interpreting **1M+ rows** of data, revealing key user trends and informing data-driven decision-making.
+- Identified opportunities for CLV enhancement by detecting that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.
+- Estimated a **2.73%** revenue growth by modeling a **20%** conversion of high-value casual riders to subscribers, suggesting retention strategies like perk boosts.
+- Revealed that **50%** of casual users are gender-unspecified, driving **45%** of trip durations, suggesting tailored engagement strategies.
+- Identified that **100%** of gender-unspecified users were born in 1985, contributing to **10%** of all trips, prompting targeted promotional initiatives.
 
-[Read More](#) | [View on GitHub](#)
-
----
-
-## Project 3: Analyzing COVID-19 Trends (2020-2021 Data)
-
-**Summary**: Brief summary of the project.
-
-**Key Insights**: Key findings and insights from the project.
-
-[Read More](#) | [View on GitHub](#)
+[Read More](#) | [View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)
 
 ---
 
