@@ -35,4 +35,19 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ---
 
+## Project 3: Analyzing COVID-19 Trends (2020-2021 Data)
+
+**Summary**: This project involves analyzing COVID-19 trends using data from 2020-2021. The analysis focuses on extracting insights related to case trends, mortality rates, and vaccination progress during the pandemic period.
+
+**Key Insights**:
+- Conducted comprehensive data analysis using SQL to extract meaningful insights from **85k+ records**, covering case trends, mortality rates, and vaccination progress.
+- Developed mortality risk models to correlate cases and deaths, revealing Lebanon's peak death rate of **4.92%**.
+- Normalized death rates per capita, identifying Hungary as having the highest mortality rate of **0.28%**.
+- Determined high-risk regions based on infection rates per capita, with Andorra (**17.12%**) and Montenegro (**15.5%**) being the most impacted.
+- Assessed vaccination progress, showing that the U.S. vaccinated over **68%** of its population with at least one dose by the analysis end date.
+
+[Read More](#) | [View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)
+
+---
+
 Feel free to click on "Read More" to explore each project in detail or "View on GitHub" to see the full code and documentation.
