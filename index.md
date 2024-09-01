@@ -13,11 +13,11 @@ As a Data Analyst transitioning from academia to industry, I specialize in trans
 
 Explore a selection of my key projects that demonstrate my ability to solve complex problems, optimize processes, and deliver business value:
 
-1. **[Android App Metrics Analysis (2010-2018 Data)](Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
+1. **[Android App Metrics Analysis (2010-2018 Data)](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
    
-2. **[SF Bike Share Insights (2017-2019 Data)](SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
+2. **[SF Bike Share Insights (2017-2019 Data)](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
 
-3. **[Analyzing COVID-19 Trends (2020-2021 Data)](Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)**: Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
+3. **[Analyzing COVID-19 Trends (2020-2021 Data)](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)**: Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
 
 ## Research Contributions
 
