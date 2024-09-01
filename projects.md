@@ -16,7 +16,7 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
   - A **310% spike** in app downloads during summer, suggesting optimal release timing.
   - A **200% higher download rate** among pre-teens and teens, guiding targeted marketing and app design.
 
-[Read More](#) | [View on GitHub]([https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md))
+[Read More](#) | [View on GitHub](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)
 
 ---
 
