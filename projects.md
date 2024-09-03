@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to my Projects page! Here, you'll find a collection of my data analysis projects that showcase my expertise in statistical analysis, data visualization, predictive modeling, and business intelligence. Click on each project to learn more about the methodology, insights, and impact, or "View on GitHub" to see the detailed documentation and code.
+Welcome to my Projects page! Here, you'll find a collection of my data analysis projects that showcase my expertise in statistical analysis, data visualization, predictive modeling, and business intelligence. Each project section below provides a summary of the methodology, key insights, and impact. For more in-depth details and code, you can "View on GitHub."
 
 ---
 
