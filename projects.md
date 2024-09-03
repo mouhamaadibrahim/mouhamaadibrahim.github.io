@@ -70,6 +70,9 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
    - In this video, I provide a detailed walkthrough of the Tableau dashboard, highlighting key insights such as user distribution, trip durations by user type, and targeted promotional opportunities based on user demographics.  
     *Please note that this video is created as a personal project and reflects an amateur approach to content creation.* 
 
+![Video Insight Preview](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Images/1985-born.png)  
+   *"Click to watch the video for a walkthrough of the analysis dashboard."*
+
    [Watch the Video](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Videos/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).mp4)  
    *"Learn more about the findings from the SF Bike Share analysis, including strategies to convert casual riders to subscribers and enhance customer engagement."*
 
