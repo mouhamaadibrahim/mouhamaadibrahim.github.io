@@ -71,7 +71,8 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
     *Please note that this video is created as a personal project and reflects an amateur approach to content creation.* 
 
 ![Video Insight Preview](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Images/1985-born.png)  
-   *"Click to watch the video for a walkthrough of the analysis dashboard."*
+   *"Preview of the video content. Check out the video for a guided tour of the Tableau dashboard, where key findings and data stories are explained.  
+   Click the link below to watch the full video."*
 
    [Watch the Video](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Videos/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).mp4)  
    *"Learn more about the findings from the SF Bike Share analysis, including strategies to convert casual riders to subscribers and enhance customer engagement."*
