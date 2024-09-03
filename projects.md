@@ -40,8 +40,8 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ### Additional Resources:
 
-- **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
-- **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by 75%.
+- **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
+- **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by 75%.
 - **[View Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)**: Explore the interactive Power BI dashboard for a deeper dive into the project findings and visualizations.
 - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
