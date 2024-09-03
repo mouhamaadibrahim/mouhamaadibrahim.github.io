@@ -67,13 +67,18 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
    *"The Tableau dashboard offers a comprehensive view of bike share user behavior and trends in San Francisco, highlighting key metrics and opportunities for business growth."*
 
 2. **Video Insight: Data Storytelling and Key Findings**
-   - In this video, I provide a detailed walkthrough of the Tableau dashboard, highlighting key insights such as user distribution, trip durations by user type, and targeted promotional opportunities based on user demographics.
-   
-   [Watch the Video](path_to_video)  
+   - In this video, I provide a detailed walkthrough of the Tableau dashboard, highlighting key insights such as user distribution, trip durations by user type, and targeted promotional opportunities based on user demographics.  
+    *Please note that this video is created as a personal project and reflects an amateur approach to content creation.* 
+
+   [Watch the Video](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Videos/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).mp4)  
    *"Learn more about the findings from the SF Bike Share analysis, including strategies to convert casual riders to subscribers and enhance customer engagement."*
 
 3. **Data-Driven Recommendations Based on Customer Segments**
    - A deep dive into customer segmentation reveals that most trips are made by users who do not specify their gender and were born in 1985, suggesting a focused approach to convert these high-value segments into subscribers through targeted promotions and engagement strategies.
+   - Additionally, a detailed analysis and calculation of the potential revenue increase from converting **20%** of casual riders to subscribers is provided. This report estimates a **2.73%** revenue growth by modeling the impact of these conversions and suggests strategic retention plans like offering perks to maintain long-term customer loyalty.
+
+   [Read the Report: Revenue Increase Estimation from Casual Customers to Subscribers](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Reports/Revenue%20Increase%20Estimation%20Casual%20Customers%20to%20Subscribers.pdf)  
+   *"This report details the methodology and calculations used to estimate the revenue impact of converting casual riders to subscribers, providing actionable recommendations for business growth."*
 
 ### Additional Resources:
 
