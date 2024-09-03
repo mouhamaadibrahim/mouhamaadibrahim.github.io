@@ -58,7 +58,26 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 - Revealed that **50%** of casual users are gender-unspecified, driving **45%** of trip durations, suggesting tailored engagement strategies.
 - Identified that **100%** of gender-unspecified users were born in 1985, contributing to **10%** of all trips, prompting targeted promotional initiatives.
 
-[Read More](#) | [View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)
+### Key Elements:
+
+1. **Interactive Tableau Dashboard Overview**
+   - The interactive dashboard created using Tableau provides an in-depth analysis of user behavior, trip durations, and customer segments, offering valuable insights into improving customer lifetime value (CLV) and targeted promotions.
+   
+   ![SF Bike Share Dashboard Overview](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).png)  
+   *"The Tableau dashboard offers a comprehensive view of bike share user behavior and trends in San Francisco, highlighting key metrics and opportunities for business growth."*
+
+2. **Video Insight: Data Storytelling and Key Findings**
+   - In this video, I provide a detailed walkthrough of the Tableau dashboard, highlighting key insights such as user distribution, trip durations by user type, and targeted promotional opportunities based on user demographics.
+   
+   [Watch the Video](path_to_video)  
+   *"Learn more about the findings from the SF Bike Share analysis, including strategies to convert casual riders to subscribers and enhance customer engagement."*
+
+3. **Data-Driven Recommendations Based on Customer Segments**
+   - A deep dive into customer segmentation reveals that most trips are made by users who do not specify their gender and were born in 1985, suggesting a focused approach to convert these high-value segments into subscribers through targeted promotions and engagement strategies.
+
+### Additional Resources:
+
+- **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
 
 ---
 
