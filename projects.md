@@ -16,7 +16,34 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
   - A **310% spike** in app downloads during summer, suggesting optimal release timing.
   - A **200% higher download rate** among pre-teens and teens, guiding targeted marketing and app design.
 
-[Read More](#) | [View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)
+### Key Elements:
+
+1. **Why Focus on Genre Instead of Category?**
+   - Unlike traditional studies that focus on category, this analysis introduces a novel approach by emphasizing genre for greater accuracy. Categories like 'Family' or 'Game' contain various genres, making genre a more precise factor for evaluating app success.
+   
+   ![Why Focus on Genre Instead of Category?](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Genre-vs-Category.png)  
+   *"This project focuses on analyzing app success by genre rather than category to provide more accurate insights. Categories like 'Family' and 'Game' include various genres, which can be better evaluated individually."*
+
+2. **Deviation Metric by Genre**
+   - The Deviation Metric by Genre reveals the variations in app downloads by genre, indicating which types of apps outperform or underperform. For instance:
+     - A **450% rise** in downloads for communication apps, highlighting user preference for value-centric apps.
+     - A **250% rise** in downloads for arcade games, supporting the stress-relief theory.
+   
+   ![Deviation Metric by Genre](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Genre.png)  
+   *"The Deviation Metric by Genre reveals that communication and arcade genres have the highest deviations in app downloads, suggesting these genres are more likely to drive success. Understanding these trends, such as user preference for value-centric apps, helps in making strategic decisions for app development and marketing."*
+
+3. **Deviation Metric by Audience Target**
+   - This analysis identifies pre-teens and teens as the most significant audience segment, with a **200% higher download rate** compared to other demographics, guiding targeted marketing and app design strategies.
+   
+   ![Deviation Metric by Audience Target](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Audience.png)  
+   *"The Deviation Metric by Audience Target highlights pre-teens and teens as the dominant audience for app downloads, emphasizing the importance of tailoring marketing and design strategies to appeal to these groups."*
+
+### Additional Resources:
+
+- **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
+- **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by 75%.
+- **[View Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)**: Explore the interactive Power BI dashboard for a deeper dive into the project findings and visualizations.
+- **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
 ---
 
