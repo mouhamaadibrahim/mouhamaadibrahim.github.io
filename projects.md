@@ -115,4 +115,4 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ---
 
-Feel free to click on "Read More" to explore each project in detail or "View on GitHub" to see the full code and documentation.
+Feel free to explore each project section below for an in-depth overview of the methodology, key insights, and impact, or click 'View on GitHub' to access the full code and documentation.
