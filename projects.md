@@ -82,6 +82,7 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ### Additional Resources:
 
+- **[View Tableau Dashboard](https://public.tableau.com/app/profile/mouhamad.ibrahim1084/viz/SfBikeShareInsights2017-2019Data/Dashboard1#1)**: Explore the interactive Tableau dashboard for an in-depth look at user behavior trends and actionable insights from the SF Bike Share analysis.
 - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
 
 ---
