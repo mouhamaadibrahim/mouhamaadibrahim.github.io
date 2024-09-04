@@ -21,7 +21,7 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 1. **Why Focus on Genre Instead of Category?**
    - Unlike traditional studies that focus on category, this analysis introduces a novel approach by emphasizing genre for greater accuracy. Categories like 'Family' or 'Game' contain various genres, making genre a more precise factor for evaluating app success.
    
-   ![Why Focus on Genre Instead of Category?](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Genre-vs-Category.png)  
+   ![Genre vs Category](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Genre-vs-Category.png)
    *"This project focuses on analyzing app success by genre rather than category to provide more accurate insights. Categories like 'Family' and 'Game' include various genres, which can be better evaluated individually."*
 
 2. **Deviation Metric by Genre**
