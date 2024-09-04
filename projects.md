@@ -63,14 +63,14 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 1. **Interactive Tableau Dashboard Overview**
    - The interactive dashboard created using Tableau provides an in-depth analysis of user behavior, trip durations, and customer segments, offering valuable insights into improving customer lifetime value (CLV) and targeted promotions.
    
-   ![SF Bike Share Dashboard Overview](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).png)  
+   ![SF Bike Share Dashboard Overview](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).png)
    *"The Tableau dashboard offers a comprehensive view of bike share user behavior and trends in San Francisco, highlighting key metrics and opportunities for business growth."*
 
 2. **Video Insight: Data Storytelling and Key Findings**
    - In this video, I provide a detailed walkthrough of the Tableau dashboard, highlighting key insights such as user distribution, trip durations by user type, and targeted promotional opportunities based on user demographics.  
     *Please note that this video is created as a personal project and reflects an amateur approach to content creation.* 
 
-![Video Insight Preview](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Images/1985-born.png)  
+![Video Insight Preview](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Images/1985-born.png)  
    *"Preview of the video content. Check out the video for a guided tour of the Tableau dashboard, where key findings and data stories are explained.  
    Click the link below to watch the full video."*
 
@@ -98,16 +98,16 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 **Key Insights**:
 - Conducted comprehensive data analysis using SQL to extract meaningful insights from **85k+ records**, covering case trends, mortality rates, and vaccination progress.
 - Developed mortality risk models to correlate cases and deaths, revealing Lebanon's peak death rate of **4.92%**.
-  ![Mortality Risk Models and Peak Death Rates](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Mortality%20Risk%20Models%20and%20Peak%20Death%20Rates.png)
+  ![Mortality Risk Models and Peak Death Rates](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Mortality%20Risk%20Models%20and%20Peak%20Death%20Rates.png)
   *"The mortality risk models highlight Lebanon's peak death rate of 4.92%, demonstrating the correlation between cases and deaths."*
 
 - Normalized death rates per capita, identifying Hungary as having the highest mortality rate of **0.28%**.
-  ![Normalized Death Rates Per Capita](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Normalized%20Death%20Rates%20Per%20Capita.png)
+  ![Normalized Death Rates Per Capita](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Normalized%20Death%20Rates%20Per%20Capita.png)
   *"A comparative analysis of normalized death rates per capita reveals Hungary with the highest mortality rate at 0.28%."*
 
 - Determined high-risk regions based on infection rates per capita, with Andorra (**17.12%**) and Montenegro (**15.5%**) being the most impacted.
 - Assessed vaccination progress, showing that the U.S. vaccinated over **68%** of its population with at least one dose by the analysis end date.
-  ![USA Vaccination Progress](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/USA%20Vaccination%20Progress.png)
+  ![Vaccination Progress](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/USA%20Vaccination%20Progress.png)
   *"The vaccination progress analysis indicates that the U.S. vaccinated over 68% of its population with at least one dose by the end date of analysis."*
 
 ### Additional Resources:
