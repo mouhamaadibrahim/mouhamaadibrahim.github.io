@@ -12,7 +12,16 @@ My research publication, ["Geometric parameters optimization of planar interdigi
 ## Industry Adoption and Impact
 
 Throughout my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x.  
-These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications [as documented here](https://dimensions.altmetric.com/details/81105616/patents).
+My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects.  
+These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications [as documented here](https://dimensions.altmetric.com/details/81105616/patents).  
+
+Key milestones include:
+
+- Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
+- Designed a microfluidic platform that improved data collection efficiency by **400%** and reduced production costs by **70%** through innovative material choices.
+- Applied data mining and analysis to cell culture datasets, uncovering key insights that led to a **6x faster method** for quantifying Cryptosporidium infection stages.
+
+Explore more details on my GitHub repository: [Research Projects Repository](https://github.com/mouhamaadibrahim/Analytics-Research-Projects).
 
 ---
 
@@ -40,9 +49,10 @@ To demonstrate the improvement in analysis effectiveness, a comparative analysis
 
 ### References and Resources for Bioimpedance Modeling and Sensor Optimization
 
-- [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
+- [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](https://github.com/mouhamaadibrahim/Analytics-Research-Projects/blob/main/resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
 - [Access the publication online](https://doi.org/10.5617/jeb.304)
 - [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
+- [View on GitHub](https://github.com/mouhamaadibrahim/Analytics-Research-Projects)
 
 ---
 
@@ -59,6 +69,10 @@ This project, conducted at the **Institute of Electronics, Microelectronics & Na
 
 ### References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring
 
-1. **[Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium (PDF)](resources/Electrical%20impedance%20sensor%20for%20quantitative%20monitoring%20of%20infection%20processes%20on%20HCT-8%20cells%20by%20the%20waterborne%20parasite%20Cryptosporidium.pdf)**  
-   Research publication that presents the bioimpedance model and analysis methods used to detect Cryptosporidium infection stages and the resulting improvements in detection time.
+- [Download the publication: Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium](https://github.com/mouhamaadibrahim/Analytics-Research-Projects/blob/main/resources/Electrical%20impedance%20sensor%20for%20quantitative%20monitoring%20of%20infection%20processes%20on%20HCT-8%20cells%20by%20the%20waterborne%20parasite%20Cryptosporidium.pdf)
+- [View on GitHub](https://github.com/mouhamaadibrahim/Analytics-Research-Projects)
+
+---
+
+For a complete overview of all my research projects and to access full documentation, visit my [Research Projects Repository on GitHub](https://github.com/mouhamaadibrahim/Analytics-Research-Projects).
 
