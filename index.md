@@ -13,11 +13,11 @@ As a Data Analyst transitioning from academia to industry, I specialize in trans
 
 Explore a selection of my key projects that demonstrate my ability to solve complex problems, optimize processes, and deliver business value:
 
-1. **[Android App Metrics Analysis (2010-2018 Data)](#project-1-android-app-metrics-analysis-2010-2018-data)**: Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
+1. **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**: Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
+   
+2. **[SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)**: Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
 
-2. **[SF Bike Share Insights (2017-2019 Data)](#project-2-sf-bike-share-insights-2017-2019-data)**: Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
-
-3. **[Analyzing COVID-19 Trends (2020-2021 Data)](#project-3-analyzing-covid-19-trends-2020-2021-data)**: Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
+3. **[Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)**: Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
 
 ## Research Contributions
 
