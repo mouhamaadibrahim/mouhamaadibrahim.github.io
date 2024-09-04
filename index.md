@@ -26,6 +26,8 @@ I have authored 5+ highly cited research papers that bridge the gap between acad
 - **Top Publication**: ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score) – Ranked in the top 25% by Altmetric.
 - **Key Research Impact**: Developed optimized bioimpedance sensors adopted by 4 industry leaders, resulting in patents and a 65% improvement in analysis effectiveness.
 
+For an in-depth look at my research projects, methodologies, and key findings, visit my [Research Contributions page](/research).
+
 [View my full publication list on Google Scholar](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en)
 
 ## Teaching and Mentorship
