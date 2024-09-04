@@ -29,13 +29,13 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
      - A **450% rise** in downloads for communication apps, highlighting user preference for value-centric apps.
      - A **250% rise** in downloads for arcade games, supporting the stress-relief theory.
    
-   ![Deviation Metric by Genre](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Genre.png)  
+   ![Deviation Metric by Genre](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Genre.png)
    *"The Deviation Metric by Genre reveals that communication and arcade genres have the highest deviations in app downloads, suggesting these genres are more likely to drive success. Understanding these trends, such as user preference for value-centric apps, helps in making strategic decisions for app development and marketing."*
 
 3. **Deviation Metric by Audience Target**
    - This analysis identifies pre-teens and teens as the most significant audience segment, with a **200% higher download rate** compared to other demographics, guiding targeted marketing and app design strategies.
    
-   ![Deviation Metric by Audience Target](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Audience.png)  
+   ![Deviation Metric by Audience](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/Images/Deviation-Metric-by-Audience.png)
    *"The Deviation Metric by Audience Target highlights pre-teens and teens as the dominant audience for app downloads, emphasizing the importance of tailoring marketing and design strategies to appeal to these groups."*
 
 ### Additional Resources:
