@@ -21,7 +21,7 @@ My mentorship has significantly impacted students' academic journeys, empowering
 
 ### Student Testimonial
 > *“I had the great fortune of being taught by Dr. Mouhamad Ibrahim at AUT in courses like Probability and Statistics, Discrete Math, and Calculus III. He has a talent for turning complex topics, like regression and minimizing RSS, into clear, practical lessons that stick with you. Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics. I highly recommend him for any data analyst role—his expertise and enthusiasm would be a great asset to any team.”*  
-— *Ali Tarraf, Web Developer*
+— **Ali Tarraf**, Web Developer at *Sowlutions Inc.*
 
 ## Technical Skills Applied
 
