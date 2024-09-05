@@ -62,15 +62,14 @@ As a Data Analytics Instructor at the American University of Technology, I have 
   - Ranked 1st out of 23, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
   - Specializations: R, Statistical Analysis, Excel, Tableau, Power BI, Data Visualization, Database Management, Machine Learning Fundamentals.
   
-- **Ph.D. in Electronic Systems – Biomedical Engineering, University of Lorraine**  
+- **Ph.D. in Biomedical Engineering, University of Lorraine**  
   *2008 - 2012*  
   - Focused on optimizing the design of interdigital sensors for bioimpedance measurement to expand the analysis bandwidth and reduce polarization errors, achieving a **65% increase in analysis capabilities** and **18% increase in sensitivity**. 
 
 - **Master's in Physics and Materials, University of Lorraine**  
   *2007 - 2008*  
     - Developed numerical simulations for piezoelectric nano-composites using **COMSOL Multiphysics**, enhancing experimental data accuracy.
-    - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
-
+    
 ## Awards & Recognitions
 
 My commitment to excellence in data analytics and research has been recognized with several awards and honors throughout my career:
