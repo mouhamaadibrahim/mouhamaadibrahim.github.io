@@ -38,6 +38,8 @@ As a Data Analytics Instructor at the American University of Technology, I have 
 - **Real-World SQL Exercises**: Boosted SQL proficiency by 30% with practical case studies in Management Information Systems, achieving a 90%+ pass rate.
 - **Career Success**: Supported over 5 students in securing programming jobs through foundational courses in Linear Algebra and Discrete Math.
 
+**[Learn More About My Teaching and Mentorship](/mentoring)**
+
 ## Let's Connect
 
 I’m passionate about exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), check out my [GitHub](https://github.com/mouhamaadibrahim) for more projects, or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
