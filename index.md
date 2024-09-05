@@ -1,25 +1,27 @@
 # Mouhamad Ibrahim, PhD – Data Analyst
 
-Welcome to my portfolio! I am an accomplished Data Analyst with a PhD and a rich blend of research, teaching, and industry experience. My work spans over 5+ years of leveraging advanced data analysis, statistical modeling, and business intelligence to transform complex data into actionable insights. This site showcases my journey through impactful projects, groundbreaking research, and a dedication to data education.
+Welcome to my portfolio! I am a highly skilled Data Analyst with a PhD and a diverse background in research, teaching, and data analytics. With over 5 years of experience, I specialize in advanced data analysis and statistical modeling, transforming complex datasets into actionable insights that drive strategic decisions. This site showcases my journey through impactful projects, groundbreaking research, and a deep commitment to data education.
+
+Recently, I honed my expertise in business intelligence during my time at Zaka AI, where I ranked 1st in their competitive Data Analytics specialization program. I am now excited to bring my data-driven approach to industry roles, empowering businesses to leverage data for achieving their strategic goals.
 
 ## About Me
 
-I am an **award-winning Data Analyst** recognized for my performance in Zaka AI's competitive Data Analytics specialization program. With over **5+ years of expertise** in transforming complex data into actionable insights through statistical analysis, data visualization, and predictive modeling. My background in research and higher education has shaped my ability to leverage data to drive impactful decisions. I am now transitioning into the **business intelligence** field, where I aim to apply my analytical skills to support data-driven decision-making for industry leaders.
+I am an **award-winning Data Analyst** recognized for exceptional performance in Zaka AI's Data Analytics specialization program, where I earned the **Gold Streak Badge** and ranked **1st out of 23** participants for excelling in 6 consecutive data challenges. With over **5 years of expertise** in transforming complex data into meaningful insights through statistical analysis, data visualization, and predictive modeling, I have a strong foundation in research and higher education that has shaped my ability to drive impactful, data-driven decisions.
 
-My experience spans several research-driven projects that have led to significant data quality improvements and process optimizations. These projects have strong potential applications in industry settings. **For example**:
+Transitioning into the **business intelligence** field, I am leveraging my analytical skills to support data-driven decision-making for industry leaders. My experience spans research-driven projects that have delivered significant data quality improvements and process optimizations. These projects are highly applicable to industry settings, providing a solid foundation for impactful contributions. **For example**:
 
+**Research Achievements:**
 - **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** at IJL CNRS through engineered models, leading to adoption by **4 industry leaders**.
 - **Reduced production costs by 70%** and **elevated data quality by 30%** at IEMN CNRS through cross-functional collaboration, driving significant efficiency gains.
 
-In addition to research, I have applied my skills in practical, industry-focused projects:
-
+**Industry-Focused Projects:**
 - **Spearheaded a capstone project** at Zaka AI analyzing **10k+ Android apps**, improving data quality by **75%** and delivering actionable business intelligence insights for stakeholders.
 
-With strong skills in **SQL, R, Excel, Tableau, and Power BI**, I am skilled in developing advanced data visualizations and analytical solutions that drive value. As a lifelong learner and data enthusiast, I earned the prestigious **Gold Streak Badge** for excelling in 6 consecutive data challenges, where I mastered skills in R, Excel, Tableau, and more as part of Zaka AI's Data Analytics specialization program, ranking **1st out of 23** participants.
+Proficient in **SQL, R, Excel, Tableau, and Power BI**, I excel in developing advanced data visualizations and analytical solutions that deliver measurable value. As a lifelong learner and data enthusiast, I take pride in earning the **Gold Streak Badge** for mastering 6 consecutive data challenges at Zaka AI, showcasing my expertise and commitment to continuous growth.
 
-I am passionate about bringing my expertise in advanced analytics to industry settings, where I can elevate data quality, optimize processes, and drive smarter decision-making. Fluent in English, French, and Arabic, I thrive in diverse environments and am eager to collaborate with forward-thinking teams in sectors like healthcare, finance, and technology.
+I am passionate about bringing my expertise in advanced analytics to industry settings to elevate data quality, optimize processes, and enable smarter decision-making. Fluent in English, French, and Arabic, I thrive in diverse environments and look forward to collaborating with forward-thinking teams in sectors like healthcare, finance, and technology.
 
-**Let’s connect!** I’m always open to exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Explore my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to learn more about my work's impact in bridging academic and real-world applications. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), check out my [GitHub](https://github.com/mouhamaadibrahim) for more projects, or contact me directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
+**Let’s connect!** I’m eager to explore new opportunities, collaborate on innovative data projects, and contribute to impactful data-driven solutions. Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to understand how my work bridges academic and real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
 
 ## Featured Projects
 
@@ -70,6 +72,8 @@ As a Data Analytics Instructor at the American University of Technology, I have 
     - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
 
 ## Awards & Recognitions
+
+My commitment to excellence in data analytics and research has been recognized with several awards and honors throughout my career:
 
 - **Gold Streak Badge, Zaka AI**  
   *November 2023*  
