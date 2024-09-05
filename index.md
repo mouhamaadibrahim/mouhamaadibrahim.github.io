@@ -4,10 +4,22 @@ Welcome to my portfolio! I am an accomplished Data Analyst with a PhD and a rich
 
 ## About Me
 
-As a Data Analyst transitioning from academia to industry, I specialize in transforming data into meaningful stories that drive business decisions and innovation. My experience includes leading data-driven projects, pioneering research in bioimpedance modeling and sensor optimization, and mentoring the next generation of data professionals.
+I am an **award-winning Data Analyst** recognized for my performance in Zaka AI's competitive Data Analytics specialization program. With over **5+ years of expertise** in transforming complex data into actionable insights through statistical analysis, data visualization, and predictive modeling. My background in research and higher education has shaped my ability to leverage data to drive impactful decisions. I am now transitioning into the **business intelligence** field, where I aim to apply my analytical skills to support data-driven decision-making for industry leaders.
 
-- **Key Strengths**: Statistical Analysis, Predictive Modeling, Data Mining, Data Visualization, A/B Testing, Research, and Mentorship.
-- **Tools & Technologies**: R, SQL, Power BI, Tableau, Excel, MATLAB, COMSOL Multiphysics, EIS Spectrum Analyzer.
+My experience spans several research-driven projects that have led to significant data quality improvements and process optimizations. These projects have strong potential applications in industry settings. **For example**:
+
+- **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** at IJL CNRS through engineered models, leading to adoption by **4 industry leaders**.
+- **Reduced production costs by 70%** and **elevated data quality by 30%** at IEMN CNRS through cross-functional collaboration, driving significant efficiency gains.
+
+In addition to research, I have applied my skills in practical, industry-focused projects:
+
+- **Spearheaded a capstone project** at Zaka AI analyzing **10k+ Android apps**, improving data quality by **75%** and delivering actionable business intelligence insights for stakeholders.
+
+With strong skills in **SQL, R, Excel, Tableau, and Power BI**, I am skilled in developing advanced data visualizations and analytical solutions that drive value. As a lifelong learner and data enthusiast, I earned the prestigious **Gold Streak Badge** for excelling in 6 consecutive data challenges, where I mastered skills in R, Excel, Tableau, and more as part of Zaka AI's Data Analytics specialization program, ranking **1st out of 23** participants.
+
+I am passionate about bringing my expertise in advanced analytics to industry settings, where I can elevate data quality, optimize processes, and drive smarter decision-making. Fluent in English, French, and Arabic, I thrive in diverse environments and am eager to collaborate with forward-thinking teams in sectors like healthcare, finance, and technology.
+
+**Let’s connect!** I’m always open to exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Explore my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to learn more about my work's impact in bridging academic and real-world applications. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), check out my [GitHub](https://github.com/mouhamaadibrahim) for more projects, or contact me directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
 
 ## Featured Projects
 
@@ -39,6 +51,49 @@ As a Data Analytics Instructor at the American University of Technology, I have 
 - **Career Success**: Supported over 5 students in securing programming jobs through foundational courses in Linear Algebra and Discrete Math.
 
 **[Learn More About My Teaching and Mentorship](/mentoring)**
+
+## Education
+
+- **Certification in Data Analytics, Zaka AI**  
+  *September - December 2023*  
+  - Earned the **Gold Streak Badge** for excelling in data challenges, including A/B testing to increase bookings and identifying loan approval predictors.
+  - Ranked 1st out of 23, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
+  - Specializations: R, Statistical Analysis, Excel, Tableau, Power BI, Data Visualization, Database Management, Machine Learning Fundamentals.
+  
+- **Ph.D. in Electronic Systems – Biomedical Engineering, University of Lorraine**  
+  *2008 - 2012*  
+  - Focused on optimizing the design of interdigital sensors for bioimpedance measurement to expand the analysis bandwidth and reduce polarization errors, achieving a **65% increase in analysis capabilities** and **18% increase in sensitivity**. 
+
+- **Master's in Physics and Materials, University of Lorraine**  
+  *2007 - 2008*  
+    - Developed numerical simulations for piezoelectric nano-composites using **COMSOL Multiphysics**, enhancing experimental data accuracy.
+    - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
+
+## Awards & Recognitions
+
+- **Gold Streak Badge, Zaka AI**  
+  *November 2023*  
+  Awarded for top performance and securing first place in 6 challenges, demonstrating data analytics expertise.
+
+- **Receiving Written Compliments, Regional Council of Hauts-de-France**  
+  *March 2015*  
+  Recognized for outstanding contributions and excellence in the scientific community.
+
+- **Postdoctoral Fellowship, National Institute of Health and Medical Research**  
+  *July 2013*  
+  Received for significant potential in biomedical research and innovation to pursue a post-doctoral fellowship at IEMN.
+
+- **Best Science Day Project Award, University of Lorraine**  
+  *November 2008*  
+  Honored for presenting the best research project at the annual Science Day event.
+
+- **Doctoral Scholarship, French Ministry of Higher Education**  
+  *July 2008*  
+  Granted for academic excellence and promising research potential to pursue a PhD at IJL, University of Lorraine.
+
+- **Master Scholarship, Lebanese University**  
+  *September 2007*  
+  Received for outstanding academic performance to pursue a master’s degree in France.
 
 ## Let's Connect
 
