@@ -2,13 +2,13 @@
 
 Welcome to my portfolio! I am a highly skilled Data Analyst with a PhD and a diverse background in research, teaching, and data analytics. With over 5 years of experience, I specialize in advanced data analysis and statistical modeling, transforming complex datasets into actionable insights that drive strategic decisions. This site showcases my journey through impactful projects, groundbreaking research, and a deep commitment to data education.
 
-Recently, I honed my expertise in business intelligence during my time at Zaka AI, where I ranked 1st in their competitive Data Analytics specialization program. I am now excited to bring my data-driven approach to industry roles, empowering businesses to leverage data for achieving their strategic goals.
+Recently, I honed my expertise in business intelligence during my time at Zaka AI, where I ranked 1st in their competitive Data Analytics specialization program. I am now excited to transition to industry roles where I can apply my data-driven approach, particularly in business intelligence, to empower businesses to achieve their strategic goals.
 
 ## About Me
 
-I am an **award-winning Data Analyst** recognized for exceptional performance in Zaka AI's Data Analytics specialization program, where I earned the **Gold Streak Badge** and ranked **1st out of 23** participants for excelling in 6 consecutive data challenges. With over **5 years of expertise** in transforming complex data into meaningful insights through statistical analysis, data visualization, and predictive modeling, I have a strong foundation in research and higher education that has shaped my ability to drive impactful, data-driven decisions.
+I am an **award-winning Data Analyst**, recognized for exceptional performance in Zaka AI's Data Analytics specialization program, where I earned the prestigious **Gold Streak Badge** and ranked **1st out of 23** participants for excelling in 6 consecutive data challenges. With over **5 years of expertise** in transforming complex data into actionable insights through statistical analysis, data visualization, and predictive modeling, my background in research and higher education has shaped my ability to leverage data to drive impactful decisions.
 
-Transitioning into the **business intelligence** field, I am leveraging my analytical skills to support data-driven decision-making for industry leaders. My experience spans research-driven projects that have delivered significant data quality improvements and process optimizations. These projects are highly applicable to industry settings, providing a solid foundation for impactful contributions. **For example**:
+I am now excited to bring my data-driven approach to industry roles, with a strong interest in **business intelligence**. My experience encompasses both **research-driven** and **industry-focused** projects that have led to significant data quality improvements and process optimizations. These projects showcase strong applications in various settings, from academic research to industry practice. **For example**:
 
 **Research Achievements:**
 - **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** at IJL CNRS through engineered models, leading to adoption by **4 industry leaders**.
