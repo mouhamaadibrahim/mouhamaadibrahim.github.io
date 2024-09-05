@@ -25,7 +25,7 @@ I am passionate about bringing my expertise in advanced analytics to industry se
 
 ## Featured Projects
 
-Explore a selection of my key projects that demonstrate my ability to solve complex problems, optimize processes, and deliver business value:
+Explore a selection of my key projects that demonstrate my ability to solve complex problems, optimize processes, and create impactful solutions across various domains:
 
 1. **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**: Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
    
