@@ -109,4 +109,4 @@ Feel free to reach out to me for collaboration or opportunities:
 - **LinkedIn**: [linkedin.com/in/mouhamaadibrahim](https://www.linkedin.com/in/mouhamaadibrahim)  
 - **GitHub**: [github.com/mouhamaadibrahim](https://github.com/mouhamaadibrahim)  
 
-[Download My Resume (PDF)](path-to-resume.pdf)
+[Download My Resume (PDF)](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)
