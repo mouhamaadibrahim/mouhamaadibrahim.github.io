@@ -19,7 +19,8 @@ I am now excited to bring my data-driven approach to industry roles, with a stro
 
 Proficient in **SQL, R, Excel, Tableau, and Power BI**, I excel in developing advanced data visualizations and analytical solutions that deliver measurable value. As a lifelong learner and data enthusiast, I take pride in earning the **Gold Streak Badge** for mastering 6 consecutive data challenges at Zaka AI, showcasing my expertise and commitment to continuous growth.
 
-I am passionate about bringing my expertise in advanced analytics to industry settings to elevate data quality, optimize processes, and enable smarter decision-making. Fluent in English, French, and Arabic, I thrive in diverse environments and look forward to collaborating with forward-thinking teams in sectors like healthcare, finance, and technology.
+I am passionate about bringing my expertise in advanced analytics to industry settings to elevate data quality, optimize processes, and enable smarter decision-making. Fluent in English, French, and Arabic, I thrive in diverse environments and look forward to collaborating with forward-thinking teams in sectors like healthcare, finance, and technology.  
+Feel free to explore my [detailed resume](/resume) to see how my skills and experiences align with industry needs. It provides a comprehensive overview of my professional journey, skills, and achievements that are well-suited for roles requiring data-driven strategies.
 
 **Let’s connect!** I’m eager to explore new opportunities, collaborate on innovative data projects, and contribute to impactful data-driven solutions. Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to understand how my work bridges academic and real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
 
@@ -100,7 +101,12 @@ My commitment to excellence in data analytics and research has been recognized w
 
 ## Let's Connect
 
-I’m passionate about exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), check out my [GitHub](https://github.com/mouhamaadibrahim) for more projects, or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
+I’m passionate about exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Whether you’re interested in discussing potential collaborations, exploring my work in detail, or simply connecting, feel free to reach out!
+
+- **[View My Full Resume Here](/resume)**: Discover a more comprehensive overview of my professional journey, skills, and achievements. You can also [download my resume as a PDF](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf) for offline viewing.
+- **[LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim)**: Connect with me professionally.
+- **[GitHub](https://github.com/mouhamaadibrahim)**: Explore more of my projects and contributions.
+- **[Email](mailto:mouhamaad.ibrahim@gmail.com)**: Reach out directly for inquiries or collaboration.
 
 ---
 
