@@ -55,6 +55,16 @@ As a Data Analytics Instructor at the American University of Technology, I have 
 
 **[Learn More About My Teaching and Mentorship](/mentoring)**
 
+## Broader Professional Experience
+
+Beyond data analytics, my professional journey includes significant roles in operations management, teaching, and technical instruction. These experiences have honed my leadership, strategic planning, and educational skills across diverse fields:
+
+- **Founder & CEO, International Skills Academy (2017 - Present)**: Directed daily operations and led a team of 5+ educators, enhancing program delivery and student satisfaction by 30%.
+- **Instructor, Technical and Vocational Institutes (2017 - 2024)**: Taught medical device electronics and biomedical engineering topics, integrating practical lab sessions to develop critical thinking and technical skills.
+- **Instructor, French Abdallah Rassi High School (2021 - 2024)**: Managed and instructed multiple physics and chemistry programs, improving student performance and engagement through innovative educational methods.
+
+For more on my broader career experiences, explore the [Non-Data Related Experience Repository](https://github.com/mouhamaadibrahim/Education-Leadership-Management-Projects).
+
 ## Education
 
 - **Certification in Data Analytics, Zaka AI**  
