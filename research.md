@@ -5,8 +5,8 @@ From modeling physiological characteristics to analyzing large datasets, I appli
 
 ## Research Publications and Impact
 
-Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric.  
-My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.  
+I have pioneered data storytelling by authoring **5+ highly cited papers** that transformed research into actionable insights—one of which ranked in the **top 25%** by **Altmetric**. My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field, providing a foundation for advancements in bioimpedance modeling and sensor design.  
+
 [View my full publication list on Google Scholar](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en)
 
 ## Industry Adoption and Impact
