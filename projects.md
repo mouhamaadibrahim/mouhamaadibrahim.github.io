@@ -93,20 +93,20 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ## Project 3: Analyzing COVID-19 Trends (2020-2021 Data)
 
-**Summary**: This project involves analyzing COVID-19 trends using data from 2020-2021. The analysis focuses on extracting insights related to case trends, mortality rates, and vaccination progress during the pandemic period.
+**Summary**: This project, completed in **June 2023** as a personal initiative, involves analyzing COVID-19 trends using data from 2020-2021. The analysis focuses on extracting insights related to case trends, mortality rates, and vaccination progress during the pandemic period.
 
 **Key Insights**:
-- Conducted comprehensive data analysis using SQL to extract meaningful insights from **85k+ records**, covering case trends, mortality rates, and vaccination progress.
-- Developed mortality risk models to correlate cases and deaths, revealing Lebanon's peak death rate of **4.92%**.
+- Conducted comprehensive data analysis using **SQL** to extract meaningful insights from **85k+ records**, covering case trends, mortality rates, and vaccination progress.
+- Developed mortality risk models to correlate cases and deaths, revealing **Lebanon's peak death rate of 4.92%**.  
   ![Mortality Risk Models and Peak Death Rates](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Mortality%20Risk%20Models%20and%20Peak%20Death%20Rates.png)  
   *"The mortality risk models highlight Lebanon's peak death rate of 4.92%, demonstrating the correlation between cases and deaths."*
 
-- Normalized death rates per capita, identifying Hungary as having the highest mortality rate of **0.28%**.
+- Normalized death rates per capita, identifying **Hungary** as having the highest mortality rate of **0.28%**.  
   ![Normalized Death Rates Per Capita](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/Normalized%20Death%20Rates%20Per%20Capita.png)  
   *"A comparative analysis of normalized death rates per capita reveals Hungary with the highest mortality rate at 0.28%."*
 
-- Determined high-risk regions based on infection rates per capita, with Andorra (**17.12%**) and Montenegro (**15.5%**) being the most impacted.
-- Assessed vaccination progress, showing that the U.S. vaccinated over **68%** of its population with at least one dose by the analysis end date.
+- Determined high-risk regions based on infection rates per capita, with **Andorra (17.12%)** and **Montenegro (15.5%)** being the most impacted.
+- Assessed vaccination progress, showing that the **U.S.** vaccinated over **68%** of its population with at least one dose by the analysis end date.  
   ![Vaccination Progress](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/Images/USA%20Vaccination%20Progress.png)  
   *"The vaccination progress analysis indicates that the U.S. vaccinated over 68% of its population with at least one dose by the end date of analysis."*
 
