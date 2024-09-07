@@ -2,30 +2,34 @@
 
 ## Professional Summary
 
-Award-winning Data Analyst with over 5 years of experience in statistical analysis, data visualization, and predictive modeling, transitioning from academia to industry roles. Proven track record of transforming complex data into actionable insights that drive strategic decision-making and innovation. Recognized for top performance in competitive data challenges and impactful research contributions that have led to significant improvements in data quality and process optimization.
+Award-winning Data Analyst with over **5 years** of experience in **statistical analysis, data visualization,** and **predictive modeling**, transitioning from academia to industry roles. Proven track record of transforming complex data into actionable insights that drive strategic decision-making and innovation.  
+Recognized for top performance in competitive data challenges and impactful research contributions that have led to significant improvements in data quality, process optimization, and business intelligence outcomes.
 
 ## Key Skills
 
 - **Data Analysis & Visualization**: SQL, Excel, R, Tableau, Power BI
-- **Predictive Modeling & Statistical Analysis**: Regression, A/B Testing
-- **Business Intelligence & Decision Support**: Data Cleaning, Data Mining, Dashboard Development
+- **Predictive Modeling & Statistical Analysis**: Regression, A/B Testing, Hypothesis Testing
+- **Business Intelligence & Decision Support**: Data Cleaning, Data Mining, Dashboard Development, Data Storytelling
 - **Programming & Tools**: MATLAB, COMSOL Multiphysics, EIS Spectrum Analyzer
-- **Communication & Collaboration**: Mentorship, Technical Writing, Cross-Functional Team Leadership
+- **Communication & Collaboration**: Mentorship, Technical Writing, Cross-Functional Team Leadership, Educational Content Development
 
 ## Professional Experience
 
 ### Data Analytics Instructor  
 **American University of Technology (AUT)**  
 *February 2017 - Present*  
-- Shaped the academic journey of over 200 students across various data-driven courses, providing dedicated mentorship to 20+ students on hands-on data analysis projects.
-- Significantly enhanced student skills in communication, analytics, and technical areas, leading to the development of 7 impactful dashboards and reports using Excel.
-- Boosted SQL proficiency by 30% through practical case studies in Management Information Systems, achieving a **90%+ pass rate**.
+- Guided over **200 students** through various data-driven courses, providing dedicated mentorship to **20+ students** on hands-on data analysis projects.
+- **Elevated student skills by 50%** in communication, analytics, and visualization by mentoring projects across business, transport, and management, resulting in the development of **7 impactful dashboards and reports** using **Excel**.
+- **Boosted SQL proficiency by 30%** with practical case studies in **Management Information Systems**, achieving a **90%+ pass rate** and fostering career readiness in data analytics roles.
+- **Propelled 45% of students to score 85%+ in Probability & Statistics** by integrating data analysis methodologies, leading to an **89% pass rate**.
+- **Facilitated 70%+ achievement among 50% of students** in data science-related courses like **Linear Algebra** and **Discrete Math**, supporting algorithm development and problem-solving, leading to **5+ students** securing programming jobs.
 
 ### Data Analytics Intern  
 **Zaka AI**  
 *September 2023 – December 2023*  
-- Ranked **1st out of 23** in the Data Analytics specialization program and earned the **Gold Streak Badge** for excelling in 6 consecutive data challenges.
-- Led a 2-member capstone project team at Zaka AI analyzing **10k+ Android apps** using R and Power BI. Improved data quality by **75%** through data cleaning and processing, and provided developers with actionable business intelligence insights and strategic recommendations aimed at driving a **160%-250% increase in app downloads**.
+- Ranked **1st out of 23** in the Data Analytics specialization program and earned the **Gold Streak Badge** for excelling in **6 consecutive data challenges** involving **SQL**, **Excel**, **R**, **Tableau**, and **Power BI**.
+- Spearheaded a capstone project analyzing **10k+ Android apps** using **R** and **Power BI**, improving data quality by **75%** through advanced data cleaning and processing techniques. Developed the 'Deviation Metric' model that revealed a **160%-250% rise in downloads** for value-centric app genres and tailored designs for target audiences.
+- Conducted A/B testing to optimize booking conversions and applied cross-tabulation to identify key predictors for loan approval, demonstrating proficiency in statistical analysis and business intelligence.
 
 ### Research Data Analyst – Post-Doc  
 **Institute of Electronics, Microelectronics & Nanotechnology (IEMN)**  
