@@ -11,11 +11,11 @@ I am an **award-winning Data Analyst**, recognized for exceptional performance i
 I am now excited to bring my data-driven approach to industry roles, with a strong interest in **business intelligence**. My experience encompasses both **research-driven** and **industry-focused** projects that have led to significant data quality improvements and process optimizations. These projects showcase strong applications in various settings, from academic research to industry practice. **For example**:
 
 **Research Achievements:**
-- **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** at IJL CNRS through engineered models, leading to adoption by **4 industry leaders**.
-- **Reduced production costs by 70%** and **elevated data quality by 30%** at IEMN CNRS through cross-functional collaboration, driving significant efficiency gains.
+- **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** at **Institute Jean Lamour (IJL)** through engineered models, leading to adoption by **4 industry leaders**.
+- **Reduced production costs by 70%** and **elevated data quality by 30%** at **Institute of Electronics, Microelectronics & Nanotechnology (IEMN)** through cross-functional collaboration, driving significant efficiency gains.
 
 **Industry-Focused Projects:**
-- **Spearheaded a capstone project** at Zaka AI analyzing **10k+ Android apps**, improving data quality by **75%** and delivering actionable business intelligence insights for stakeholders.
+- **Spearheaded a capstone project** at **Zaka AI** analyzing **10k+ Android apps** using **R** and **Power BI**, improving data quality by **75%** and delivering actionable business intelligence insights for stakeholders. Developed a 'Deviation Metric' model in Power BI that amplified visualization insights and uncovered key success factors, driving a **160%-250% rise in downloads**.
 
 Proficient in **SQL, R, Excel, Tableau, and Power BI**, I excel in developing advanced data visualizations and analytical solutions that deliver measurable value. As a lifelong learner and data enthusiast, I take pride in earning the **Gold Streak Badge** for mastering 6 consecutive data challenges at Zaka AI, showcasing my expertise and commitment to continuous growth.
 
