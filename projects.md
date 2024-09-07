@@ -6,16 +6,16 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ## Project 1: Android App Metrics Analysis (2010-2018 Data)
 
-**Summary**: This project analyzes over 10,000 Android apps to understand the factors driving app success in a highly competitive environment. By leveraging data from the Google Play Store (2010-2018) and focusing on genre, audience, and seasonality, the analysis introduces a unique "Deviation Metric" model that provides actionable insights for app developers.
+**Summary**: This capstone project, completed during my internship at **Zaka AI** in **January 2024**, analyzes over **10,000 Android apps** to understand the factors driving app success in a highly competitive environment. By leveraging data from the Google Play Store (2010-2018) and focusing on genre, audience, and seasonality, the analysis introduces a unique "Deviation Metric" model that provides actionable insights for app developers.
 
 **Key Insights**:
-- Improved data quality by 75% by cleaning and processing data in R, removing duplicates, and imputing missing values.
-- Developed a 'Deviation Metric' model in Power BI to evaluate app performance against key variables, revealing:
-  - A **250% rise** in arcade game downloads supporting the stress-relief theory.
-  - A **450% surge** in communication app downloads, emphasizing the importance of human interaction.
-  - A **310% spike** in app downloads during summer, suggesting optimal release timing.
-  - A **200% higher download rate** among pre-teens and teens, guiding targeted marketing and app design.
-
+- **Improved data quality by 75%** by cleaning and processing data in **R**, removing duplicates, and imputing missing values, enabling robust analysis in **Power BI** for business intelligence.
+- Developed a 'Deviation Metric' model in **Power BI** to evaluate app performance against key variables, revealing:
+  - A **250% rise** in arcade game downloads supporting Dr. Warburton's stress-relief theory, highlighting the psychological impact of game genres.
+  - A **450% surge** in communication app downloads, emphasizing the importance of human interaction and value-centric apps.
+  - A **310% spike** in app downloads during summer, suggesting optimal release timing for maximum user acquisition.
+  - A **200% higher download rate** among pre-teens and teens, guiding targeted marketing and app design strategies to maximize engagement and retention.
+  
 ### Key Elements:
 
 1. **Why Focus on Genre Instead of Category?**
@@ -41,7 +41,7 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 ### Additional Resources:
 
 - **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
-- **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by 75%.
+- **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by **75%**.
 - **[View Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)**: Explore the interactive Power BI dashboard for a deeper dive into the project findings and visualizations.
 - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
@@ -49,10 +49,10 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 
 ## Project 2: SF Bike Share Insights (2017-2019 Data)
 
-**Summary**: This project analyzes bike share data from San Francisco, focusing on identifying key user trends and uncovering opportunities to enhance customer lifetime value (CLV) through targeted conversions and retention strategies. The analysis utilizes Tableau for visualization to provide actionable insights into user behavior, customer segments, and promotional strategies.
+**Summary**: This project, part of a data challenge in **October 2023** at **Zaka AI**, analyzes bike share data from San Francisco, focusing on identifying key user trends and uncovering opportunities to enhance customer lifetime value (CLV) through targeted conversions and retention strategies. The analysis utilizes Tableau for visualization to provide actionable insights into user behavior, customer segments, and promotional strategies.
 
 **Key Insights**:
-- Developed an interactive Tableau dashboard interpreting **1M+ rows** of data, revealing key user trends and informing data-driven decision-making.
+- Developed an interactive **Tableau dashboard** interpreting **1M+ rows** of data, revealing key user trends and informing data-driven decision-making.
 - Identified opportunities for CLV enhancement by detecting that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.
 - Estimated a **2.73%** revenue growth by modeling a **20%** conversion of high-value casual riders to subscribers, suggesting retention strategies like perk boosts.
 - Revealed that **50%** of casual users are gender-unspecified, driving **45%** of trip durations, suggesting tailored engagement strategies.
@@ -61,7 +61,7 @@ Welcome to my Projects page! Here, you'll find a collection of my data analysis 
 ### Key Elements:
 
 1. **Interactive Tableau Dashboard Overview**
-   - The interactive dashboard created using Tableau provides an in-depth analysis of user behavior, trip durations, and customer segments, offering valuable insights into improving customer lifetime value (CLV) and targeted promotions.
+   - The interactive dashboard created using **Tableau** provides an in-depth analysis of user behavior, trip durations, and customer segments, offering valuable insights into improving customer lifetime value (CLV) and targeted promotions.
    
    ![SF Bike Share Dashboard Overview](https://raw.githubusercontent.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Sf%20Bike%20Share%20Insights%20(2017-2019%20Data).png)
    *"The Tableau dashboard offers a comprehensive view of bike share user behavior and trends in San Francisco, highlighting key metrics and opportunities for business growth."*
