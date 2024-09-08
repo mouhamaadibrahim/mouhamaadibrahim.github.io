@@ -2,16 +2,32 @@
 
 ## Professional Summary
 
-Award-winning Data Analyst with over **5 years** of experience in **statistical analysis, data visualization,** and **predictive modeling**, transitioning from academia to industry roles. Proven track record of transforming complex data into actionable insights that drive strategic decision-making and innovation.  
-Recognized for top performance in competitive data challenges and impactful research contributions that have led to significant improvements in data quality, process optimization, and business intelligence outcomes.
+- Award-winning Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization** and **modeling** across research and higher education.
+- Proven ability to drive data-driven decision-making and process optimizations, demonstrated by a **65% increase in analysis effectiveness** and a **400% optimization in data collection efficiency**.
+- Ranked **1st out of 23** in the competitive Data Analytics specialization program at **Zaka AI**, earning the prestigious **Gold Streak Badge**.
+- Specializing in leveraging SQL, Excel, R, Power BI, and Tableau to deliver business intelligence insights that empower organizations.
+- Passionate about transitioning to industry roles where I can leverage my data-driven approach to empower businesses to achieve strategic goals.
+- Currently seeking roles in **data analytics** within the **healthcare, finance, or technology sectors**.
 
 ## Key Skills
 
-- **Data Analysis & Visualization**: SQL, Excel, R, Tableau, Power BI
-- **Predictive Modeling & Statistical Analysis**: Regression, A/B Testing, Hypothesis Testing
-- **Business Intelligence & Decision Support**: Data Cleaning, Data Mining, Dashboard Development, Data Storytelling
-- **Programming & Tools**: MATLAB, COMSOL Multiphysics, EIS Spectrum Analyzer
-- **Communication & Collaboration**: Mentorship, Technical Writing, Cross-Functional Team Leadership, Educational Content Development
+- **Data Analysis & Visualization**: SQL (SQL Server, MySQL), Excel (Pivot Tables, XLOOKUP), R Programming (dplyr, data.table, ggplot2), Tableau, Power BI (DAX, Power Query)
+- **Predictive Modeling & Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Data Mining
+- **Business Intelligence & Reporting**: Microsoft Power BI, Tableau, Data Visualization, Dashboards Development, Data Storytelling
+- **Research & Development**: MATLAB, COMSOL Multiphysics, EIS Spectrum Analyzer
+- **Communication & Collaboration**: Mentorship, Technical Writing, Cross-Functional Team Leadership
+- **Education & Mentorship**: Curriculum Development, Data Analysis Instruction, Student Mentorship, Project-Based Learning
+
+## Projects
+
+- **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**  
+  Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
+
+- **[SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)**  
+  Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
+
+- **[Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)**  
+  Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
 
 ## Professional Experience
 
@@ -58,17 +74,6 @@ Recognized for top performance in competitive data challenges and impactful rese
   *2007 - 2008*  
   - Developed numerical simulations for piezoelectric nano-composites using **COMSOL Multiphysics**, enhancing experimental data accuracy.
   - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
-
-## Projects
-
-- **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**  
-  Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
-
-- **[SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)**  
-  Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
-
-- **[Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)**  
-  Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
 
 ## Certifications & Courses
 
