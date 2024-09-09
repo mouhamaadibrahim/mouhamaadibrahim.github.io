@@ -4,8 +4,6 @@ Welcome to my portfolio! I am a highly skilled Data Analyst with a PhD in Biomed
 
 Recently, I honed my expertise in business intelligence during an internship at **Zaka AI** from **September to December 2023**, where I ranked **1st out of 23** in their competitive Data Analytics specialization program and earned the **Gold Streak Badge**. I am now excited to transition to industry roles where I can apply my data-driven approach to empower businesses to achieve their strategic goals.
 
-<div style="text-align: justify;">
-
 ## About Me
 
 I am an **award-winning Data Analyst** recognized for exceptional performance in **Zaka AI's Data Analytics specialization program**. I earned the prestigious **Gold Streak Badge** for mastering **6 consecutive data challenges** and ranked **1st** for outstanding proficiency in data analytics. With over **5 years of expertise** in transforming complex data into actionable insights through statistical analysis, data visualization, and predictive modeling, my background in research and higher education has shaped my ability to leverage data to drive impactful decisions.
@@ -25,8 +23,6 @@ I am passionate about bringing my expertise in advanced analytics to industry se
 Feel free to explore my [detailed resume](/resume) to see how my skills and experiences align with industry needs. It provides a comprehensive overview of my professional journey, skills, and achievements that are well-suited for roles requiring data-driven strategies.
 
 **Let’s connect!** I’m eager to explore new opportunities, collaborate on innovative data projects, and contribute to impactful data-driven solutions. Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to understand how my work bridges academic and real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
-
-</div>
 
 ## Featured Projects
 
