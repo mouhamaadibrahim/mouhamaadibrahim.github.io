@@ -1,4 +1,7 @@
-# Mouhamad Ibrahim, PhD – Data Analyst Resume
+# Mouhamad Ibrahim, PhD – Data Analyst Detailed Resume
+
+[**Download My Concise Resume (PDF)**](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)  
+*For a quick overview of my key skills, experience, and achievements in data analysis, download the concise version of my resume.*
 
 ## Professional Summary
 
@@ -201,7 +204,9 @@ Feel free to reach out to me for collaboration or opportunities:
 - **GitHub**: [github.com/mouhamaadibrahim](https://github.com/mouhamaadibrahim)
 - **Portfolio Website**: [mouhamaadibrahim.github.io](https://mouhamaadibrahim.github.io)
 
-**[Download My Resume (PDF)](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)**
+[**Download My Concise Resume (PDF)**](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)  
+*For a quick overview of my key skills, experience, and achievements in data analysis, download the concise version of my resume.*
+
 
 ---
 
