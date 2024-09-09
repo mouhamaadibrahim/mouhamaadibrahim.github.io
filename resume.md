@@ -190,10 +190,10 @@ For a comprehensive list of my publications, please visit my [Google Scholar pro
 
 ## What Others Say
 
-> *"Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics."*  
+> *Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics.*  
 — **Ali Tarraf**, Web Developer at *Sowlutions Inc.*
 
-> *"His deep knowledge of mathematics and its practical uses, as he taught us, was invaluable. Dr. Ibrahim's teaching style encouraged me to think critically and apply what I learned in real-world scenarios."*  
+> *His deep knowledge of mathematics and its practical uses, as he taught us, was invaluable. Dr. Ibrahim's teaching style encouraged me to think critically and apply what I learned in real-world scenarios.*  
 — **Mark Moussa**, Software Engineer at *Netways*
 
 ## Contact Information
