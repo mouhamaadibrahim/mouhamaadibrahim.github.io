@@ -25,6 +25,7 @@
 - **Key Insights**:  
   - A **450% surge** in communication app downloads, emphasizing the importance of human interaction and value-centric apps.  
   - A **310% spike** in app downloads during summer, suggesting optimal release timing for maximum user acquisition.  
+- **Result**: Enhanced stakeholder decision-making by identifying key success factors.  
 - **Key Resources**:
   - **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
   - **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by **75%**.
@@ -36,6 +37,7 @@
 - **Key Insights**:  
   - Identified that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.  
   - Suggested retention strategies like perk boosts to maintain long-term customer loyalty.  
+- **Result**: Informed targeted marketing efforts and customer engagement strategies, increasing subscription rates.  
 - **Key Resources**:
   - **[View Tableau Dashboard](https://public.tableau.com/app/profile/mouhamad.ibrahim1084/viz/SfBikeShareInsights2017-2019Data/Dashboard1#1)**: Explore the interactive Tableau dashboard for an in-depth look at user behavior trends and actionable insights from the SF Bike Share analysis.
   - **[Download Revenue Increase Estimation Report (2.73%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Reports/Revenue%20Increase%20Estimation%20Casual%20Customers%20to%20Subscribers.pdf)**: A detailed report on the methodology and calculations used to estimate the revenue impact of converting casual riders to subscribers.
@@ -46,8 +48,11 @@
 - **Key Insights**:  
   - Normalized death rates per capita, identifying **Hungary** with the highest mortality rate of **0.28%**.  
   - Assessed vaccination progress, showing that the **U.S.** vaccinated over **68%** of its population with at least one dose.  
+- **Result**: Provided insights to policymakers on effective pandemic response strategies and vaccine distribution optimization.  
 - **Key Resources**:
-  - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
+  - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.  
+
+*For a detailed overview and additional projects, visit the [Projects Page](/projects).*
 
 ## Professional Experience
 
@@ -108,7 +113,7 @@
 
 ## Education
 
-- **Certification in Data Analytics, Zaka AI**  
+- **Data Analytics Specialization Program, Zaka AI**  
   *September - December 2023*  
   - Earned the **Gold Streak Badge** for excelling in data challenges, including A/B testing to increase bookings and identifying loan approval predictors.
   - Ranked **1st out of 23**, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
@@ -123,7 +128,16 @@
   - Developed numerical simulations for piezoelectric nano-composites using **COMSOL Multiphysics**, enhancing experimental data accuracy.
   - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
 
+## Certifications & Continuous Learning
+
+- **Certification in Data Analytics, Zaka AI**  
+  *December 2023*  
+
+- Regular participant in **Data Science Meetups** and **AI Conferences** to stay updated on the latest industry trends.
+
 ## Awards & Recognitions
+
+My commitment to excellence in data analytics and research has been recognized with several awards and honors throughout my career:
 
 - **Gold Streak Badge, Zaka AI**  
   *November 2023*  
@@ -137,31 +151,52 @@
   *July 2013*  
   Received for significant potential in biomedical research and innovation to pursue a post-doctoral fellowship at IEMN.
 
+- **Best Science Day Project Award, University of Lorraine**  
+  *November 2008*  
+  Honored for presenting the best research project at the annual Science Day event.
+
+- **Doctoral Scholarship, French Ministry of Higher Education**  
+  *July 2008*  
+  Granted for academic excellence and promising research potential to pursue a PhD at IJL, University of Lorraine.
+
+- **Master Scholarship, Lebanese University**  
+  *September 2007*  
+  Received for outstanding academic performance to pursue a master’s degree in France.
+
 ## Publications
 
-- Authored **5+ highly cited research papers**, including one ranked in the **top 25%** by **Altmetric**.  
-- **Top Publication**: ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score)  
+Authored **5+ highly cited research papers**, including one ranked in the **top 25%** by **Altmetric**.  
 
-- **"Geometric Parameters Optimization of Planar Interdigitated Electrodes for Bioimpedance Spectroscopy"**
-- **[Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](https://dimensions.altmetric.com/details/81105616#score)**
-  - **Ranked in the top 25% by Altmetric.** Published in the *Journal of Electrical Bioimpedance*.  
+- **Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy**
+  - **[Ranked in the top 25% by Altmetric.](https://dimensions.altmetric.com/details/81105616#score)**
+  - Published in the *Journal of Electrical Bioimpedance*.  
   [DOI: https://doi.org/10.5617/jeb.304](https://doi.org/10.5617/jeb.304)
 
-- **"Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium"**  
+- **Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium**  
   - Published in *Biosensors and Bioelectronics*.  
   [DOI: 10.1016/j.bios.2014.11.009](https://doi.org/10.1016/j.bios.2014.11.009)
 
-- **"Physical and Electrical Modeling of Interdigitated Electrode Arrays for Bioimpedance Spectroscopy"**  
+- **Physical and Electrical Modeling of Interdigitated Electrode Arrays for Bioimpedance Spectroscopy**  
   - Published in *New Developments and Applications in Sensing Technology*.  
   [DOI: https://doi.org/10.1007/978-3-642-17943-3_9](https://doi.org/10.1007/978-3-642-17943-3_9)
 
 For a comprehensive list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en).
+
+## What Others Say
+
+> *"Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics."*  
+— **Ali Tarraf**, Web Developer at *Sowlutions Inc.*
 
 ## Contact Information
 
 Feel free to reach out to me for collaboration or opportunities:  
 - **Email**: [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/mouhamaadibrahim](https://www.linkedin.com/in/mouhamaadibrahim)  
-- **GitHub**: [github.com/mouhamaadibrahim](https://github.com/mouhamaadibrahim)  
+- **GitHub**: [github.com/mouhamaadibrahim](https://github.com/mouhamaadibrahim)
+- **Portfolio Website**: [mouhamaadibrahim.github.io](https://mouhamaadibrahim.github.io)
 
-[Download My Resume (PDF)](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)
+**[Download My Resume (PDF)](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)**
+
+---
+
+*Navigate through the sections above to explore my projects, research, and teaching journey in detail.*
