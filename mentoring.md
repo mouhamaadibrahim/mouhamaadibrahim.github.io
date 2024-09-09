@@ -1,7 +1,5 @@
 # Teaching and Mentorship Projects
 
-## Introduction
-
 Welcome to my **Data Teaching and Mentorship Projects** page at the **American University of Technology (AUT)**! As a university instructor and mentor, I have guided through complex data analysis projects, helping them develop practical skills and supporting their growth into capable data professionals.  
 Through targeted guidance, real-world applications, and a data-driven teaching approach, I have significantly improved students' analytical abilities and career readiness, empowering them to excel in the data-driven job market.
 
