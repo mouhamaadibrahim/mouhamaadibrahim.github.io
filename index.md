@@ -112,7 +112,7 @@ My commitment to excellence in data analytics and research has been recognized w
 
 I’m passionate about exploring new opportunities, collaborating on innovative data projects, and contributing to impactful data-driven solutions. Whether you’re interested in discussing potential collaborations, exploring my work in detail, or simply connecting, feel free to reach out!
 
-- **[View My Full Resume Here](/resume)**: Discover a more comprehensive overview of my professional journey, skills, and achievements. You can also [download my resume as a PDF](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf) for offline viewing.
+- **[View My Full Resume Here](/resume)**: Discover a more comprehensive overview of my professional journey, skills, and achievements. You can also [download my concise resume as a PDF](https://github.com/mouhamaadibrahim/mouhamaadibrahim.github.io/blob/main/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf) for offline viewing.
 - **[LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim)**: Connect with me professionally.
 - **[GitHub](https://github.com/mouhamaadibrahim)**: Explore more of my projects and contributions.
 - **[Email](mailto:mouhamaad.ibrahim@gmail.com)**: Reach out directly for inquiries or collaboration.
