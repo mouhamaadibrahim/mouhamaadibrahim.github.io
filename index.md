@@ -1,8 +1,10 @@
 # Mouhamad Ibrahim, PhD – Data Analyst
 
-Welcome to my portfolio! I am a highly skilled Data Analyst with a PhD in Biomedical Engineering and a diverse background spanning over **5 years** in research, teaching, and data analytics. I specialize in advanced data analysis, statistical modeling, and business intelligence, transforming complex datasets into actionable insights that drive strategic decisions. This site showcases my journey through impactful projects, groundbreaking research, and a deep commitment to data education and mentoring.
+Welcome to my portfolio! I am a highly accomplished Data Analyst with a PhD in Biomedical Engineering and over 5 years of experience in research, teaching, and advanced data analytics. My expertise lies in transforming complex datasets into actionable insights through **statistical analysis**, **data visualization**, and **business intelligence**. I am passionate about leveraging data to drive strategic decisions that deliver measurable impact.
 
-Recently, I honed my expertise in business intelligence during an internship at **Zaka AI** from **September to December 2023**, where I ranked **1st out of 23** in their competitive Data Analytics specialization program and earned the **Gold Streak Badge**. I am now excited to transition to industry roles where I can apply my data-driven approach to empower businesses to achieve their strategic goals.
+Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** from **September to December 2023**. Ranking **1st out of 23** participants and excelling in **6 data challenges**, I earned the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals through advanced business intelligence.
+
+As I transition into industry roles in sectors such as **healthcare, finance, or technology**, I am eager to bring my analytical expertise and data-driven mindset to drive innovation, optimize processes, and support smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how I can help your organization harness the power of data.
 
 ## About Me
 
