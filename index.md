@@ -1,5 +1,5 @@
 # Mouhamad Ibrahim, PhD
-### Data Analyst
+## Data Analyst
 
 Welcome to my portfolio! I am an **award-winning Data Analyst** with a PhD in Biomedical Engineering and **over 5 years** of experience in research, teaching, and advanced data analytics. My expertise lies in transforming complex datasets into actionable insights through **statistical analysis**, **data visualization**, **data mining and modeling**, and **business intelligence**.
 
