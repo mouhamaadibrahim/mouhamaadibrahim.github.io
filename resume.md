@@ -2,23 +2,22 @@
 
 ## Professional Summary
 
-- Award-winning Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization** and **modeling** across research and higher education.
-- Proven ability to drive data-driven decision-making and process optimizations, demonstrated by a **65% increase in analysis effectiveness** and a **400% optimization in data collection efficiency**.
+- Award-winning Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization** and **modeling** across research and higher education, now transitioning to industry roles.
+- Proven ability to drive data-driven decision-making and process optimizations, evidenced by a **65% increase in analysis effectiveness** and a **400% optimization in data collection efficiency**.
 - Ranked **1st out of 23** in the competitive Data Analytics specialization program at **Zaka AI**, earning the prestigious **Gold Streak Badge**.
 - Specializing in leveraging SQL, Excel, R, Power BI, and Tableau to deliver business intelligence insights that empower organizations.
-- Passionate about transitioning to industry roles where I can leverage my data-driven approach to empower businesses to achieve strategic goals.
-- Currently seeking roles in **data analytics** within the **healthcare, finance, or technology sectors**.
+- Currently seeking roles in **data analytics, business intelligence, or data science** within the **healthcare, finance, or technology sectors** to leverage my data-driven approach for strategic impact.
 
-## Key Skills
+## Core Competencies
 
 - **Data Analysis & Visualization**: SQL (SQL Server, MySQL), Excel (Pivot Tables, XLOOKUP), R Programming (dplyr, data.table, ggplot2), Tableau, Power BI (DAX, Power Query)
 - **Predictive Modeling & Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Data Mining
 - **Business Intelligence & Reporting**: Microsoft Power BI, Tableau, Data Visualization, Dashboards Development, Data Storytelling
 - **Research & Development**: MATLAB, COMSOL Multiphysics, EIS Spectrum Analyzer
 - **Communication & Collaboration**: Mentorship, Technical Writing, Cross-Functional Team Leadership
-- **Education & Mentorship**: Curriculum Development, Data Analysis Instruction, Student Mentorship, Project-Based Learning
+- **Education & Mentorship**: Curriculum Development, Data Analytics Instruction, Student Mentorship, Project-Based Learning
 
-## Projects
+## Key Projects and Achievements
 
 ### [Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)
 - Spearheaded a capstone project at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** through advanced data cleaning techniques in **R** and delivering actionable business intelligence insights using **Power BI**. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.  
@@ -33,7 +32,7 @@
   - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
 ### [SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)
-- Analyzed **1M+ rows** of bike share data using **Tableau** to identify key user trends and opportunities for enhancing customer lifetime value (CLV) through targeted conversion strategies. Estimated a **2.73%** revenue growth by converting high-value casual riders to subscribers.  
+- Developed an interactive **Tableau dashboard** analyzing **1M+ rows** of bike share data to identify key user trends and opportunities for enhancing customer lifetime value (CLV) through targeted conversion strategies. Estimated a **2.73%** revenue growth by converting high-value casual riders to subscribers.
 - **Key Insights**:  
   - Identified that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.  
   - Suggested retention strategies like perk boosts to maintain long-term customer loyalty.  
