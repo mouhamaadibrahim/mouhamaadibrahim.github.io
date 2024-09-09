@@ -21,17 +21,33 @@
 ## Projects
 
 ### [Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)
-- Spearheaded a capstone project at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** through advanced data cleaning techniques in **R** and delivering actionable business intelligence insights using **Power BI**. Developed the 'Deviation Metric' model, revealing key factors like a **250% rise** in arcade game downloads and a **450% surge** in communication app downloads.  
-- **Key Resources**: [Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf), [Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)
+- Spearheaded a capstone project at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** through advanced data cleaning techniques in **R** and delivering actionable business intelligence insights using **Power BI**. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.  
+- **Key Insights**:  
+  - A **450% surge** in communication app downloads, emphasizing the importance of human interaction and value-centric apps.  
+  - A **310% spike** in app downloads during summer, suggesting optimal release timing for maximum user acquisition.  
+- **Key Resources**:
+  - **[Download Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf)**: A comprehensive report detailing the full analysis, methodology, and strategic recommendations.
+  - **[Download Data Quality Improvement Report (75%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Data%20Quality%20Improvement_Report.pdf)**: A detailed report on the data cleaning and processing steps that improved data quality by **75%**.
+  - **[View Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)**: Explore the interactive Power BI dashboard for a deeper dive into the project findings and visualizations.
+  - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
-- **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**  
-  Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
+### [SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)
+- Analyzed **1M+ rows** of bike share data using **Tableau** to identify key user trends and opportunities for enhancing customer lifetime value (CLV) through targeted conversion strategies. Estimated a **2.73%** revenue growth by converting high-value casual riders to subscribers.  
+- **Key Insights**:  
+  - Identified that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.  
+  - Suggested retention strategies like perk boosts to maintain long-term customer loyalty.  
+- **Key Resources**:
+  - **[View Tableau Dashboard](https://public.tableau.com/app/profile/mouhamad.ibrahim1084/viz/SfBikeShareInsights2017-2019Data/Dashboard1#1)**: Explore the interactive Tableau dashboard for an in-depth look at user behavior trends and actionable insights from the SF Bike Share analysis.
+  - **[Download Revenue Increase Estimation Report (2.73%)](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/Reports/Revenue%20Increase%20Estimation%20Casual%20Customers%20to%20Subscribers.pdf)**: A detailed report on the methodology and calculations used to estimate the revenue impact of converting casual riders to subscribers.
+  - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
 
-- **[SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)**  
-  Created an interactive Tableau dashboard interpreting 1M+ rows of data, identifying high-value opportunities by targeting casual riders for conversion, modeling a potential 2.73% revenue growth.
-
-- **[Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)**  
-  Conducted an in-depth analysis of 85k+ records using SQL, developing mortality risk models and identifying critical trends in infection and death rates, such as Lebanon's peak death rate of 4.92%.
+### [Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)
+- Conducted an in-depth analysis of **85k+ records** using **SQL**, developing mortality risk models to correlate cases and deaths, identifying critical trends like **Lebanon's peak death rate of 4.92%**.  
+- **Key Insights**:  
+  - Normalized death rates per capita, identifying **Hungary** with the highest mortality rate of **0.28%**.  
+  - Assessed vaccination progress, showing that the **U.S.** vaccinated over **68%** of its population with at least one dose.  
+- **Key Resources**:
+  - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Analyzing%20COVID-19%20Trends%20(2020-2021%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
 
 ## Professional Experience
 
