@@ -59,32 +59,60 @@
 - **Boosted SQL proficiency by 30%** with practical case studies in **Management Information Systems**, achieving a **90%+ pass rate** and fostering career readiness in data analytics roles.
 - **Propelled 45% of students to score 85%+ in Probability & Statistics** by integrating data analysis methodologies, leading to an **89% pass rate**.
 - **Facilitated 70%+ achievement among 50% of students** in data science-related courses like **Linear Algebra** and **Discrete Math**, supporting algorithm development and problem-solving, leading to **5+ students** securing programming jobs.
+- **[Learn More About My Teaching and Mentorship Projects](/mentoring)**
 
 ### Data Analytics Intern  
 **Zaka AI**  
 *September 2023 – December 2023*  
-- Ranked **1st out of 23** in the Data Analytics specialization program and earned the **Gold Streak Badge** for excelling in **6 consecutive data challenges** involving **SQL**, **Excel**, **R**, **Tableau**, and **Power BI**.
-- Spearheaded a capstone project analyzing **10k+ Android apps** using **R** and **Power BI**, improving data quality by **75%** through advanced data cleaning and processing techniques. Developed the 'Deviation Metric' model that revealed a **160%-250% rise in downloads** for value-centric app genres and tailored designs for target audiences.
+- Ranked **1st out of 23** in the Data Analytics specialization program, achieving a **98%** grade and earned the **Gold Streak Badge** for excelling in **6 consecutive data challenges** involving **SQL**, **Excel**, **R**, **Tableau**, and **Power BI**.
 - Conducted A/B testing to optimize booking conversions and applied cross-tabulation to identify key predictors for loan approval, demonstrating proficiency in statistical analysis and business intelligence.
+- Led a 2-member team capstone project analyzing **10k+ Android apps** using **R** and **Power BI**, delivering actionable insights for developers.  
+- Improved data quality by **75%** through data cleaning and processing, providing developers with strategic recommendations to drive a **160%-250% increase in app downloads**.  
+- **[Read More About the Zaka AI Capstone Project](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**
+- **[Discover More About This Internship](https://www.linkedin.com/in/mouhamaadibrahim)**
 
 ### Research Data Analyst – Post-Doc  
 **Institute of Electronics, Microelectronics & Nanotechnology (IEMN)**  
 *September 2013 – June 2015*  
-- Collaborated cross-functionally to collect, clean, and analyze data for 50+ experiments in Excel, resulting in a **102% increase** in fiber adhesion—a key KPI supporting 3D systems in cell studies.
+- Collaborated cross-functionally to collect, clean, and analyze data for **50+ experiments in Excel**, resulting in a **102% increase** in fiber adhesion—a key KPI supporting 3D systems in cell studies.
 - Engineered advanced microfluidic solutions by constructing a single-flow device integrating a 2-input injection system, optimizing data collection efficiency by **400%** and reducing errors by **30%**.
+- Cut production costs by **70%** through innovative microfluidic platform design.
+- Collaborated in a **5-member team** on data mining analysis of Cryptosporidium cell culture datasets, uncovering **3** parasite development stages. Led bioimpedance data processing that enabled a 12-hour infectivity quantification method—**6x faster** than standard techniques.
+- **[Learn More About My Research Contributions](/research)**  
 
 ### Research Data Analyst – PhD  
 **Institute Jean Lamour (IJL), University of Lorraine**  
 *September 2008 – December 2012*  
-- Engineered models that expanded analysis capabilities by **65%** and increased sensor sensitivity by **18%**, leading to adoption by **4 industry leaders**.
-- Identified optimal sensor design ratio (0.66) using data-driven analysis and modeling, resulting in enhanced analysis effectiveness and research publications.
+- Upgraded conductivity sensor design using **MATLAB** by engineering bioimpedance models, mining physiological characteristics as electrical elements, resulting in adoption by **4 industry leaders**, each securing a patent.
+- Identified optimal sensor design ratio 0.66, using data-driven analysis and modeling, expanding analysis effectiveness by **65%**.
+- Expanding measurement analysis band from **600 MHz to 988 MHz** via engineering optimal biosensors, increasing sensitivity by **18%** for health applications.
+- Published **5+ highly cited papers** in bioimpedance modeling and sensor optimization.  
+- **[Learn More About My PhD Research Projects](/research)**
+
+## Broader Professional Experience
+
+### Founder & CEO  
+**International Skills Academy (ISA)**  
+*September 2017 - Present*
+- Directed daily operations and led a team of **5+** educators, enhancing program delivery and increasing student satisfaction by **30%**.  
+- Partnered with **50+ stakeholders** annually to identify needs, develop plans, and assess progress, achieving a **90%+ satisfaction rate**.  
+- Oversaw IELTS exam preparation, achieving a **90%+ pass rate** through structured guidance.
+- **[Explore More About My Broader Professional Experience](https://github.com/mouhamaadibrahim/Education-Leadership-Management-Projects)**
+
+### Instructor
+**Technical and Vocational Institutes**  
+*February 2017 – June 2024*  
+- Developed expertise in medical device electronics and bio-amplifiers, enhancing critical thinking skills in students.  
+- Taught core physics and engineering concepts, improving student understanding and academic performance.  
+- **[Explore More About My Broader Professional Experience](https://github.com/mouhamaadibrahim/Education-Leadership-Management-Projects)**
 
 ## Education
 
 - **Certification in Data Analytics, Zaka AI**  
   *September - December 2023*  
   - Earned the **Gold Streak Badge** for excelling in data challenges, including A/B testing to increase bookings and identifying loan approval predictors.
-  - Ranked 1st out of 23, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
+  - Ranked **1st out of 23**, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
+  - Specializations: R, Statistical Analysis, Excel, Tableau, Power BI, Data Visualization, Database Management, Machine Learning Fundamentals.
 
 - **Ph.D. in Biomedical Engineering, University of Lorraine**  
   *2008 - 2012*  
@@ -94,12 +122,6 @@
   *2007 - 2008*  
   - Developed numerical simulations for piezoelectric nano-composites using **COMSOL Multiphysics**, enhancing experimental data accuracy.
   - Specialization in Plasmas, Optics, Opto-Electronics, and Micro-Nanosystems.
-
-## Certifications & Courses
-
-- **Certification in Data Analytics, Zaka AI**  
-  *September - December 2023*  
-  - Specializations: R, Statistical Analysis, Excel, Tableau, Power BI, Data Visualization, Database Management, Machine Learning Fundamentals.
 
 ## Awards & Recognitions
 
@@ -117,16 +139,20 @@
 
 ## Publications
 
-- **"Geometric Parameters Optimization of Planar Interdigitated Electrodes for Bioimpedance Spectroscopy"**  
-  **Ranked in the top 25% by Altmetric.** Published in the *Journal of Electrical Bioimpedance*.  
+- Authored **5+ highly cited research papers**, including one ranked in the **top 25%** by **Altmetric**.  
+- **Top Publication**: ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score)  
+
+- **"Geometric Parameters Optimization of Planar Interdigitated Electrodes for Bioimpedance Spectroscopy"**
+- **[Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](https://dimensions.altmetric.com/details/81105616#score)**
+  - **Ranked in the top 25% by Altmetric.** Published in the *Journal of Electrical Bioimpedance*.  
   [DOI: https://doi.org/10.5617/jeb.304](https://doi.org/10.5617/jeb.304)
 
 - **"Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium"**  
-  Published in *Biosensors and Bioelectronics*.  
+  - Published in *Biosensors and Bioelectronics*.  
   [DOI: 10.1016/j.bios.2014.11.009](https://doi.org/10.1016/j.bios.2014.11.009)
 
 - **"Physical and Electrical Modeling of Interdigitated Electrode Arrays for Bioimpedance Spectroscopy"**  
-  Published in *New Developments and Applications in Sensing Technology*.  
+  - Published in *New Developments and Applications in Sensing Technology*.  
   [DOI: https://doi.org/10.1007/978-3-642-17943-3_9](https://doi.org/10.1007/978-3-642-17943-3_9)
 
 For a comprehensive list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en).
