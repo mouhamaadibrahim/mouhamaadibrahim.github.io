@@ -38,7 +38,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 
 ## Detailed Examples of Student Projects
 
-Below are detailed examples of student projects that were part of the "Business Statistics" course. These projects illustrate how students applied statistical concepts to real-world business challenges through hands-on projects.
+Below are detailed examples of student projects that were part of the *Business Statistics* course. These projects illustrate how students applied statistical concepts to real-world business challenges through hands-on projects.
 
 ### 1. Analysis of Global Travel Patterns, Preferences, and Costs
 
