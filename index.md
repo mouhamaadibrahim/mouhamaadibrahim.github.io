@@ -1,12 +1,10 @@
-<div style="text-align: justify;">
-
 # Mouhamad Ibrahim, PhD – Data Analyst
 
 Welcome to my portfolio! I am a highly skilled Data Analyst with a PhD in Biomedical Engineering and a diverse background spanning over **5 years** in research, teaching, and data analytics. I specialize in advanced data analysis, statistical modeling, and business intelligence, transforming complex datasets into actionable insights that drive strategic decisions. This site showcases my journey through impactful projects, groundbreaking research, and a deep commitment to data education and mentoring.
 
 Recently, I honed my expertise in business intelligence during an internship at **Zaka AI** from **September to December 2023**, where I ranked **1st out of 23** in their competitive Data Analytics specialization program and earned the **Gold Streak Badge**. I am now excited to transition to industry roles where I can apply my data-driven approach to empower businesses to achieve their strategic goals.
 
-</div>
+<div style="text-align: justify;">
 
 ## About Me
 
@@ -27,6 +25,8 @@ I am passionate about bringing my expertise in advanced analytics to industry se
 Feel free to explore my [detailed resume](/resume) to see how my skills and experiences align with industry needs. It provides a comprehensive overview of my professional journey, skills, and achievements that are well-suited for roles requiring data-driven strategies.
 
 **Let’s connect!** I’m eager to explore new opportunities, collaborate on innovative data projects, and contribute to impactful data-driven solutions. Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to understand how my work bridges academic and real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
+
+</div>
 
 ## Featured Projects
 
