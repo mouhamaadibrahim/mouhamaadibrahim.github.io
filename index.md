@@ -1,30 +1,33 @@
 # Mouhamad Ibrahim, PhD – Data Analyst
 
-Welcome to my portfolio! I am a highly accomplished Data Analyst with a PhD in Biomedical Engineering and over 5 years of experience in research, teaching, and advanced data analytics. My expertise lies in transforming complex datasets into actionable insights through **statistical analysis**, **data visualization**, and **business intelligence**. I am passionate about leveraging data to drive strategic decisions that deliver measurable impact.
+Welcome to my portfolio! I am an **award-winning Data Analyst** with a PhD in Biomedical Engineering and **over 5 years** of experience in research, teaching, and advanced data analytics. My expertise lies in transforming complex datasets into actionable insights through **statistical analysis**, **data visualization**, **data mining and modeling**, and **business intelligence**.
 
-Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** from **September to December 2023**. Ranking **1st out of 23** participants and excelling in **6 data challenges**, I earned the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals through advanced business intelligence.
+Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** **from September to December 2023**. Ranking **1st out of 23** participants, I excelled in **6 consecutive data challenges**, earning the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals.
 
-As I transition into industry roles in sectors such as **healthcare, finance, or technology**, I am eager to bring my analytical expertise and data-driven mindset to drive innovation, optimize processes, and support smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how I can help your organization harness the power of data.
+As I transition into industry roles within **healthcare, finance,** or **technology**, I am eager to apply my analytical expertise to drive innovation, optimize processes, and support smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how my unique blend of academic rigor and practical application can help your organization harness the power of data.
 
 ## About Me
 
-I am an **award-winning Data Analyst** recognized for exceptional performance in **Zaka AI's Data Analytics specialization program**. I earned the prestigious **Gold Streak Badge** for mastering **6 consecutive data challenges** and ranked **1st** for outstanding proficiency in data analytics. With over **5 years of expertise** in transforming complex data into actionable insights through statistical analysis, data visualization, and predictive modeling, my background in research and higher education has shaped my ability to leverage data to drive impactful decisions.
+I am a highly accomplished Data Analyst with a **PhD in Biomedical Engineering**, bringing over **5 years** of experience in transforming complex datasets into actionable insights. My expertise spans **statistical analysis**, **data visualization**, and **predictive modeling**, with a proven track record of delivering impactful results in both research and industry settings.
 
-I am now excited to bring my data-driven approach to industry roles, with a strong focus on **business intelligence** and **data-driven strategies**. My experience spans both **research-driven** and **industry-focused** projects that have led to significant data quality improvements and process optimizations. These projects demonstrate strong applications in various settings, from academic research to industry practice. **For example**:
+Throughout my career, I have consistently leveraged my analytical skills to uncover critical insights and drive strategic decision-making. My work has been recognized for outstanding performance, most recently in **Zaka AI's Data Analytics specialization program** where I ranked **1st out of 23** participants and earned the **prestigious Gold Streak Badge** for mastering **6 consecutive data challenges.**
 
-**Research Achievements:**
-- **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** during my **PhD at IJL, University of Lorraine** through engineered models, leading to adoption by **4 industry leaders**, each securing a patent.
-- **Reduced production costs by 70%** and **elevated data quality by 30%** during my **post-doc at IEMN CNRS** through cross-functional collaboration, driving significant efficiency gains.
+### Research Excellence:
+- **Expanded analysis capabilities by 65%** and **boosted sensor sensitivity by 18%** during my **PhD research** at **IJL**. This advanced modeling work led to adoption by **4 industry leaders**, each securing a patent.
+- **Reduced production costs by 70%** and **improved data quality by 30%** in my **post-doctoral research** at **IEMN CNRS**, achieving significant efficiency gains through cross-functional collaboration.
 
-**Industry-Focused Projects:**
-- **Spearheaded a capstone project** at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** and delivering actionable business intelligence insights for stakeholders.
+### Industry Impact:
+- **Led a capstone project** at **Zaka AI** analyzing **10,000+ Android apps**, enhancing data quality by **75%** and providing actionable business intelligence insights that drove a **160%-250% increase in app downloads**.
 
-Proficient in **SQL, Excel, R, Tableau, and Power BI**, I excel in developing advanced data visualizations and analytical solutions that deliver measurable value. As a lifelong learner and data enthusiast, I take pride in earning the **Gold Streak Badge** at **Zaka AI** for mastering **6 consecutive data challenges**, showcasing my expertise and commitment to continuous growth.
+I leverage tools like **SQL, Excel, R, Tableau, and Power BI** to develop advanced data visualizations and analytical solutions that deliver measurable results. As a dedicated learner and data enthusiast, I stay at the forefront of data analytics trends by actively participating in communities like **DataCamp** and **Beirut AI**.
 
-I am passionate about bringing my expertise in advanced analytics to industry settings to elevate data quality, optimize processes, and enable smarter decision-making. Fluent in **English, French, and Arabic**, I thrive in diverse environments and look forward to collaborating with forward-thinking teams in sectors like healthcare, finance, and technology.  
-Feel free to explore my [detailed resume](/resume) to see how my skills and experiences align with industry needs. It provides a comprehensive overview of my professional journey, skills, and achievements that are well-suited for roles requiring data-driven strategies.
+Fluent in **English, French**, and **Arabic**, I bring a global perspective to data analysis and communication. As I transition to industry roles in sectors such as **healthcare, finance**, or **technology**, I am eager to apply my data-driven mindset to elevate data quality, optimize processes, and enable smarter decision-making. My goal is to collaborate with innovative teams to develop impactful, data-driven solutions that address complex business challenges.
 
-**Let’s connect!** I’m eager to explore new opportunities, collaborate on innovative data projects, and contribute to impactful data-driven solutions. Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges and delivered value, and visit my [Research Contributions](#research-contributions) to understand how my work bridges academic and real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
+I invite you to explore my [detailed resume](/resume) for a comprehensive view of my skills and experiences that align with industry needs. Let's connect and explore how we can harness the power of data together! Whether you're interested in discussing potential collaborations, have questions about my work, or want to explore innovative data projects, I'm excited to engage.
+
+Dive into my [Featured Projects](#featured-projects) to see how I've tackled complex challenges, or visit my [Research Contributions](#research-contributions) to understand how my work bridges academic theories with real-world applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mouhamaadibrahim), explore more projects on my [GitHub](https://github.com/mouhamaadibrahim), or reach out directly via [email](mailto:mouhamaad.ibrahim@gmail.com).
+
+Together, let's turn data into your organization's most valuable asset.
 
 ## Featured Projects
 
