@@ -20,6 +20,10 @@
 
 ## Projects
 
+### [Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)
+- Spearheaded a capstone project at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** through advanced data cleaning techniques in **R** and delivering actionable business intelligence insights using **Power BI**. Developed the 'Deviation Metric' model, revealing key factors like a **250% rise** in arcade game downloads and a **450% surge** in communication app downloads.  
+- **Key Resources**: [Overall Project Report](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/reports/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)_Report.pdf), [Power BI Dashboard](https://app.powerbi.com/links/MOJIv481oU?ctid=75896fba-443c-4a4b-be5b-b780a63ffd94&pbi_source=linkShare)
+
 - **[Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)**  
   Led a capstone project using R and Power BI, improving data quality by 75% for 10k+ Android apps. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.
 
