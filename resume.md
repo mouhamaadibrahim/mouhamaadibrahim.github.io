@@ -20,6 +20,7 @@
 ## Key Projects and Achievements
 
 ### [Android App Metrics Analysis (2010-2018 Data)](/projects#project-1-android-app-metrics-analysis-2010-2018-data)
+*Zaka AI, November 2023 – January 2024*  
 - Spearheaded a capstone project at **Zaka AI** analyzing **10k+ Android apps**, improving data quality by **75%** through advanced data cleaning techniques in **R** and delivering actionable business intelligence insights using **Power BI**. Developed a 'Deviation Metric' model that amplified visualization insights, revealing how value-centric app genres and tailored designs for target audiences drove a **160%-250% rise in downloads**.  
 - **Key Insights**:  
   - A **450% surge** in communication app downloads, emphasizing the importance of human interaction and value-centric apps.  
@@ -32,6 +33,7 @@
   - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/Android%20App%20Metrics%20Analysis%20(2010-2018%20Data)/README.md)**: Visit the GitHub repository for more details on this project.
 
 ### [SF Bike Share Insights (2017-2019 Data)](/projects#project-2-sf-bike-share-insights-2017-2019-data)
+*Zaka AI, October 2023*  
 - Developed an interactive **Tableau dashboard** analyzing **1M+ rows** of bike share data to identify key user trends and opportunities for enhancing customer lifetime value (CLV) through targeted conversion strategies. Estimated a **2.73%** revenue growth by converting high-value casual riders to subscribers.
 - **Key Insights**:  
   - Identified that **18%** of users (casual riders) use bikes **3.5x longer** than subscribers, highlighting potential conversion strategies.  
@@ -43,6 +45,7 @@
   - **[View on GitHub](https://github.com/mouhamaadibrahim/Data-Driven-Solutions-Projects/blob/main/SF%20Bike%20Share%20Insights%20(2017-2019%20Data)/README.md)**: Visit the GitHub repository for more details on this project, including the full documentation and analysis.
 
 ### [Analyzing COVID-19 Trends (2020-2021 Data)](/projects#project-3-analyzing-covid-19-trends-2020-2021-data)
+*Personal Project, June 2023*  
 - Conducted an in-depth analysis of **85k+ records** using **SQL**, developing mortality risk models to correlate cases and deaths, identifying critical trends like **Lebanon's peak death rate of 4.92%**.  
 - **Key Insights**:  
   - Normalized death rates per capita, identifying **Hungary** with the highest mortality rate of **0.28%**.  
@@ -111,7 +114,7 @@
 - **[Explore More About My Broader Professional Experience](https://github.com/mouhamaadibrahim/Education-Leadership-Management-Projects)**
 
 ## Education
-
+  
 - **Data Analytics Specialization Program, Zaka AI**  
   *September - December 2023*  
   - Earned the **Gold Streak Badge** for excelling in data challenges, including A/B testing to increase bookings and identifying loan approval predictors.
@@ -133,6 +136,7 @@
   *December 2023*  
 
 - Regular participant in **Data Science Meetups** and **AI Conferences** to stay updated on the latest industry trends.
+- Fluent in **English, French, and Arabic**, I excel in diverse environments and actively engage with data communities such as **DataCamp** and **Beirut AI** (I am a member of both), continuously enhancing my skills and staying abreast of the latest industry trends.
 
 ## Awards & Recognitions
 
@@ -185,6 +189,9 @@ For a comprehensive list of my publications, please visit my [Google Scholar pro
 
 > *"Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics."*  
 — **Ali Tarraf**, Web Developer at *Sowlutions Inc.*
+
+> *"His deep knowledge of mathematics and its practical uses, as he taught us, was invaluable. Dr. Ibrahim's teaching style encouraged me to think critically and apply what I learned in real-world scenarios."*
+— **Mark Moussa**, Software Engineer at *Netways*
 
 ## Contact Information
 
