@@ -1,6 +1,6 @@
 # mouhamaadibrahim.github.io
 
-Welcome to the Portfolio of **Mouhamad Ibrahim, PhD** – a Data Analyst specializing in transforming complex data into actionable insights through advanced analytics and business intelligence.
+Welcome to the Portfolio of **Mouhamad Ibrahim, PhD** – a **Data Analyst** specializing in transforming complex data into actionable insights through advanced analytics and business intelligence.
 
 ## Explore My Work
 Visit my [personal website](https://mouhamaadibrahim.github.io) to explore my featured projects, research contributions, and teaching and mentorship experiences.
