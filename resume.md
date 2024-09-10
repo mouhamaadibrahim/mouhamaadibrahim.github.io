@@ -1,10 +1,9 @@
-# Mouhamad Ibrahim, PhD – Data Analyst
-
+# Mouhamad Ibrahim, PhD
 ## Detailed Resume
 
 *For a quick overview of my key skills, experience, and achievements in data analysis, you can download the [concise version of my resume (PDF)](https://mouhamaadibrahim.github.io/Upload%20files/Mouhamad_Ibrahim_Data_Analyst_Resume.pdf)*
 
-## Professional Summary
+## Data Analyst Summary
 
 - Award-winning Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization** and **modeling** across research and higher education, now transitioning to industry roles.
 - Proven ability to drive data-driven decision-making and process optimizations, evidenced by a **65% increase in analysis effectiveness** and a **400% optimization in data collection efficiency**.
