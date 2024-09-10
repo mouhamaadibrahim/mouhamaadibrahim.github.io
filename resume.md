@@ -138,7 +138,6 @@
 - **Certification in Data Analytics, Zaka AI**  
   *December 2023*  
 
-- Regular participant in **Data Science Meetups** and **AI Conferences** to stay updated on the latest industry trends.
 - Fluent in **English, French, and Arabic**, I excel in diverse environments and actively engage with data communities such as **DataCamp** and **Beirut AI** (I am a member of both), continuously enhancing my skills and staying abreast of the latest industry trends.
 
 ## Awards & Recognitions
