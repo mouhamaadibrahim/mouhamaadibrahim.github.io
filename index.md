@@ -3,7 +3,7 @@
 
 Welcome to my portfolio! I am an **award-winning Data Analyst** with a PhD in Biomedical Engineering and **over 5 years** of experience in research, teaching, and advanced data analytics. My expertise lies in transforming complex datasets into actionable insights through **statistical analysis**, **data visualization**, **data mining and modeling**, and **business intelligence**.
 
-Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** **from September to December 2023**. Ranking **1st out of 23** participants, I excelled in **6 consecutive data challenges**, earning the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals.
+Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** **from September to December 2023**. Ranking **1<sup>st</sup> out of 23** participants, I excelled in **6 consecutive data challenges**, earning the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals.
 
 As I transition into industry roles within **healthcare, finance,** or **technology**, I am eager to apply my analytical expertise to drive innovation, optimize processes, and support smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how my unique blend of academic rigor and practical application can help your organization harness the power of data.
 
