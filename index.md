@@ -72,10 +72,10 @@ For more on my broader career experiences, explore the [Non-Data Related Experie
 
 ## Education
 
-- **Certification in Data Analytics, Zaka AI**  
+- **Data Analytics Specialization Program, Zaka AI**  
   *September - December 2023*  
   - Earned the **Gold Streak Badge** for excelling in data challenges, including A/B testing to increase bookings and identifying loan approval predictors.
-  - Ranked 1st out of 23, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
+  - Ranked **1st** out of 23, demonstrating proficiency in SQL, Excel, R, statistical analysis, and BI tools.
   - Specializations: R, Statistical Analysis, Excel, Tableau, Power BI, Data Visualization, Database Management, Machine Learning Fundamentals.
 
 - **Ph.D. in Biomedical Engineering, University of Lorraine**  
