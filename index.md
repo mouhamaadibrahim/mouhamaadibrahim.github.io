@@ -5,7 +5,7 @@ Welcome to my portfolio! I am a **Certified and Top-Ranked Data Analyst** with a
 
 Recently, I sharpened my skills during a competitive Data Analytics specialization program at **Zaka AI** **from September to December 2023**. Ranking **1st out of 23** participants, I excelled in **6 consecutive data challenges**, earning the prestigious **Gold Streak Badge**. This experience reinforced my ability to provide data-driven solutions that empower organizations to achieve their strategic goals.
 
-As I transition into industry roles within **healthcare, finance,** or **technology**, I am eager to apply my analytical expertise to drive innovation, optimize processes, and support smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how my unique blend of academic rigor and practical application can help your organization harness the power of data.
+With a strong foundation in research and advanced analytics, I am eager to apply my expertise in **healthcare, finance,** or **technology**, driving innovation, optimizing processes, and supporting smarter, data-informed decision-making. This portfolio showcases my journey through impactful projects, groundbreaking research, and a strong commitment to data education and mentorship. I invite you to explore how my unique blend of academic rigor and practical application can help your organization harness the power of data.
 
 ## About Me
 
@@ -22,7 +22,7 @@ Throughout my career, I have consistently leveraged my analytical skills to unco
 
 I leverage tools like **SQL, Excel, R, Tableau, and Power BI** to develop advanced data visualizations and analytical solutions that deliver measurable results. As a dedicated learner and data enthusiast, I stay at the forefront of data analytics trends by actively participating in communities like **DataCamp** and **Beirut AI**.
 
-Fluent in **English, French**, and **Arabic**, I bring a global perspective to data analysis and communication. As I transition to industry roles in sectors such as **healthcare, finance**, or **technology**, I am eager to apply my data-driven mindset to elevate data quality, optimize processes, and enable smarter decision-making. My goal is to collaborate with innovative teams to develop impactful, data-driven solutions that address complex business challenges.
+Fluent in **English, French**, and **Arabic**, I bring a global perspective to data analysis and communication. With a strong foundation in data analytics, I am eager to apply my data-driven mindset in sectors such as **healthcare, finance**, or **technology** to elevate data quality, optimize processes, and enable smarter decision-making. My goal is to collaborate with innovative teams to develop impactful, data-driven solutions that address complex business challenges.
 
 I invite you to explore my [detailed resume](/resume) for a comprehensive view of my skills and experiences that align with industry needs. Let's connect and explore how we can harness the power of data together! Whether you're interested in discussing potential collaborations, have questions about my work, or want to explore innovative data projects, I'm excited to engage.
 
