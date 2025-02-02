@@ -5,7 +5,7 @@
 
 ## Data Analyst Summary
 
-- Certified and Top-Ranked Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization** and **modeling** across research and higher education, now transitioning to industry roles.
+- Certified and Top-Ranked Data Analyst with over **5 years** of experience in **statistical analysis**, **data visualization**, and **modeling** across research and higher education, applying analytical expertise to cross-industry challenges.
 - Proven ability to drive data-driven decision-making and process optimizations, evidenced by a **65% increase in analysis effectiveness** and a **400% optimization in data collection efficiency**.
 - Ranked **1st out of 23** in the competitive Data Analytics specialization program at **Zaka AI**, earning the prestigious **Gold Streak Badge**.
 - Specializing in leveraging SQL, Excel, R, Power BI, and Tableau to deliver business intelligence insights that empower organizations.
